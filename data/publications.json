@@ -1,0 +1,5083 @@
+{
+ "source": "Scopus Search API (Elsevier)",
+ "retrieved": "2026-10-27",
+ "authorTotals": {
+  "aenlle": 120,
+  "pelayo": 111,
+  "lamela": 45,
+  "mario": 40,
+  "muniz": 75,
+  "natalia": 24,
+  "cebada": 11,
+  "diaz": 7,
+  "ordonez": 0,
+  "guerbartchouk": 0,
+  "rodriguez": 1,
+  "canteli": 98,
+  "brincker": 42
+ },
+ "publications": [
+  {
+   "eid": "2-s2.0-105052667994",
+   "title": "ROTMAC and subspace MAC for the correlation of systems with complex modes: Theory and practical application",
+   "source": "Engineering Structures",
+   "year": 2027,
+   "date": "2027-01-01",
+   "volume": "370",
+   "issue": null,
+   "pages": "123907",
+   "doi": "10.1016/j.engstruct.2026.123907",
+   "cited": 0,
+   "type": "Article",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105049450701",
+   "title": "Fatigue assessment of galvanized slotted bolted joints: Combined experimental and numerical analysis",
+   "source": "Journal of Constructional Steel Research",
+   "year": 2027,
+   "date": "2027-01-01",
+   "volume": "248",
+   "issue": null,
+   "pages": "110656",
+   "doi": "10.1016/j.jcsr.2026.110656",
+   "cited": 0,
+   "type": "Article",
+   "oa": false,
+   "authors": "Díaz-Salamanca D.",
+   "members": [
+    "muniz",
+    "diaz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105052434496",
+   "title": "Sensor-Based Dynamic Response and Stress Estimation in Monolithic and Laminated Glass Beams Under Soft Impact Loading",
+   "source": "Sensors",
+   "year": 2026,
+   "date": "2026-09-01",
+   "volume": "26",
+   "issue": "18",
+   "pages": "5929",
+   "doi": "10.3390/s26185929",
+   "cited": 0,
+   "type": "Article",
+   "oa": false,
+   "authors": "García-Fernández N.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "lamela",
+    "mario",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105052430574",
+   "title": "Degradation of Metal Guitar Strings: Corrosion-Induced Mechanical Damage and Electrochemical Analysis Under Accelerated Conditions",
+   "source": "Corrosion and Materials Degradation",
+   "year": 2026,
+   "date": "2026-09-01",
+   "volume": "7",
+   "issue": "3",
+   "pages": "44",
+   "doi": "10.3390/cmd7030044",
+   "cited": 0,
+   "type": "Article",
+   "oa": false,
+   "authors": "Rodríguez-Tejón A.",
+   "members": [
+    "pelayo",
+    "natalia",
+    "rodriguez"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105030155990",
+   "title": "Buckling of viscoelastic laminated structural glass members: A novel practical approach using linear-elastic models",
+   "source": "Engineering Structures",
+   "year": 2026,
+   "date": "2026-02-15",
+   "volume": "349",
+   "issue": null,
+   "pages": "121884",
+   "doi": "10.1016/j.engstruct.2025.121884",
+   "cited": 1,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.A.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105028772475",
+   "title": "Integration of Conventional Sensors and Laser Doppler Vibrometry for Structural Modal Analysis: An Innovative Approach",
+   "source": "Sensors",
+   "year": 2026,
+   "date": "2026-01-01",
+   "volume": "26",
+   "issue": "2",
+   "pages": "418",
+   "doi": "10.3390/s26020418",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "Martínez López E.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105012608268",
+   "title": "Unitary phenomenological approach to the fatigue crack growth curve based on the analytical definition of the a-N curve",
+   "source": "International Journal of Fatigue",
+   "year": 2026,
+   "date": "2026-01-01",
+   "volume": "202",
+   "issue": null,
+   "pages": "109207",
+   "doi": "10.1016/j.ijfatigue.2025.109207",
+   "cited": 1,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández-Canteli A.",
+   "members": [
+    "muniz",
+    "diaz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105015389569",
+   "title": "Fatigue damage in wire rope connections of modular floating breakwater arrays: A combined time- and frequency-domain approach",
+   "source": "Engineering Structures",
+   "year": 2025,
+   "date": "2025-12-01",
+   "volume": "344",
+   "issue": null,
+   "pages": "121313",
+   "doi": "10.1016/j.engstruct.2025.121313",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "Cebada-Relea A.J.",
+   "members": [
+    "aenlle",
+    "mario",
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105026708445",
+   "title": "Fem Analyzes and Experimental Verification of the Load Capacity of Prestressed Bolted Joints of Photovoltaic Panels Dynamically Loaded by Wind",
+   "source": "Strojnicky Casopis Journal of Mechanical Engineering",
+   "year": 2025,
+   "date": "2025-12-01",
+   "volume": "75",
+   "issue": "3",
+   "pages": "53-62",
+   "doi": "10.2478/scjme-2025-0038",
+   "cited": 0,
+   "type": "Article",
+   "oa": false,
+   "authors": "Muñiz-Calvente M.",
+   "members": [
+    "muniz",
+    "diaz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105001735176",
+   "title": "Residual stress removal in rings: An analytical model for predicting displacement and stress from machining of bearings",
+   "source": "Results in Engineering",
+   "year": 2025,
+   "date": "2025-06-01",
+   "volume": "26",
+   "issue": null,
+   "pages": "104610",
+   "doi": "10.1016/j.rineng.2025.104610",
+   "cited": 3,
+   "type": "Article",
+   "oa": false,
+   "authors": "Cocaño P.",
+   "members": [
+    "pelayo",
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85217976138",
+   "title": "Impact of mean stress on mooring line fatigue assessment: An analytical study",
+   "source": "Ocean Engineering",
+   "year": 2025,
+   "date": "2025-04-30",
+   "volume": "324",
+   "issue": null,
+   "pages": "120621",
+   "doi": "10.1016/j.oceaneng.2025.120621",
+   "cited": 8,
+   "type": "Article",
+   "oa": false,
+   "authors": "Martinez-Puente E.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105019232489",
+   "title": "Applications of T-Mass and T-Stiffness Correlation Techniques",
+   "source": "Lecture Notes in Civil Engineering",
+   "year": 2025,
+   "date": "2025-01-01",
+   "volume": "676 LNCE",
+   "issue": null,
+   "pages": "944-953",
+   "doi": "10.1007/978-3-031-96114-4_98",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "García-Fernánadez N.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105016121430",
+   "title": "Vibration and Modal Analysis of the Roman Wall of Lugo",
+   "source": "Proceedings of the 11th International Operational Modal Analysis Conference Iomac 2025",
+   "year": 2025,
+   "date": "2025-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "561-569",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle López M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105016247871",
+   "title": "Preface",
+   "source": "Proceedings of the 11th International Operational Modal Analysis Conference Iomac 2025",
+   "year": 2025,
+   "date": "2025-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 0,
+   "type": "Editorial",
+   "oa": false,
+   "authors": "Döhler M.",
+   "members": [
+    "aenlle"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105016203181",
+   "title": "The ROTMAC Concept: An Experimental Application",
+   "source": "Proceedings of the 11th International Operational Modal Analysis Conference Iomac 2025",
+   "year": 2025,
+   "date": "2025-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "662-673",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "García-Fernández N.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105016175418",
+   "title": "20 Years of IOMAC",
+   "source": "Proceedings of the 11th International Operational Modal Analysis Conference Iomac 2025",
+   "year": 2025,
+   "date": "2025-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "759-770",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Brincker R.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-105016183622",
+   "title": "Proportional Flexibility Matrices Using Modal Parameters Estimated with Operational Modal Analysis",
+   "source": "Proceedings of the 11th International Operational Modal Analysis Conference Iomac 2025",
+   "year": 2025,
+   "date": "2025-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "579-588",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85215282600",
+   "title": "Methodological advances in fatigue crack growth modeling",
+   "source": "Procedia Structural Integrity",
+   "year": 2025,
+   "date": "2025-01-01",
+   "volume": "66",
+   "issue": null,
+   "pages": "296-304",
+   "doi": "10.1016/j.prostr.2024.11.079",
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández-Canteli A.",
+   "members": [
+    "muniz",
+    "diaz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85210137303",
+   "title": "Damage detection in composite and plastic thin-wall beams by operational modal analysis: An experimental assessment",
+   "source": "Composites Part C Open Access",
+   "year": 2024,
+   "date": "2024-10-01",
+   "volume": "15",
+   "issue": null,
+   "pages": "100542",
+   "doi": "10.1016/j.jcomc.2024.100542",
+   "cited": 5,
+   "type": "Article",
+   "oa": false,
+   "authors": "Pacheco-Chérrez J.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85201514920",
+   "title": "Turning of 42CrMo4+QT under different scenarios: Dataset of machining, roughness and residual stress",
+   "source": "Data in Brief",
+   "year": 2024,
+   "date": "2024-10-01",
+   "volume": "56",
+   "issue": null,
+   "pages": "110793",
+   "doi": "10.1016/j.dib.2024.110793",
+   "cited": 4,
+   "type": "Data Paper",
+   "oa": false,
+   "authors": "Díaz-Salamanca D.",
+   "members": [
+    "muniz",
+    "diaz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85201662873",
+   "title": "Advances in low cycle fatigue probabilistic modeling",
+   "source": "Theoretical and Applied Fracture Mechanics",
+   "year": 2024,
+   "date": "2024-10-01",
+   "volume": "133",
+   "issue": null,
+   "pages": "104611",
+   "doi": "10.1016/j.tafmec.2024.104611",
+   "cited": 8,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández-Canteli A.",
+   "members": [
+    "muniz",
+    "diaz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85195199899",
+   "title": "Benchmarking of spectral methods for fatigue assessment of mooring systems and dynamic cables in offshore renewable energy technologies",
+   "source": "Ocean Engineering",
+   "year": 2024,
+   "date": "2024-09-15",
+   "volume": "308",
+   "issue": null,
+   "pages": "118311",
+   "doi": "10.1016/j.oceaneng.2024.118311",
+   "cited": 21,
+   "type": "Article",
+   "oa": false,
+   "authors": "Martinez-Puente E.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85202164779",
+   "title": "Influence of turning parameters on residual stresses and roughness of 42CrMo4 + QT",
+   "source": "International Journal of Advanced Manufacturing Technology",
+   "year": 2024,
+   "date": "2024-09-01",
+   "volume": "134",
+   "issue": "5-6",
+   "pages": "2897-2919",
+   "doi": "10.1007/s00170-024-14257-5",
+   "cited": 5,
+   "type": "Article",
+   "oa": false,
+   "authors": "Díaz-Salamanca D.",
+   "members": [
+    "muniz",
+    "diaz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85196829607",
+   "title": "Mass and Stiffness Correlation Using a Transformation Matrix",
+   "source": "Infrastructures",
+   "year": 2024,
+   "date": "2024-06-01",
+   "volume": "9",
+   "issue": "6",
+   "pages": "96",
+   "doi": "10.3390/infrastructures9060096",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "García Fernández N.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85186759330",
+   "title": "Fatigue damage risk assessment on connections of floating pontoon arrays",
+   "source": "Ocean Engineering",
+   "year": 2024,
+   "date": "2024-05-01",
+   "volume": "299",
+   "issue": null,
+   "pages": "117317",
+   "doi": "10.1016/j.oceaneng.2024.117317",
+   "cited": 9,
+   "type": "Article",
+   "oa": false,
+   "authors": "Cebada-Relea A.J.",
+   "members": [
+    "aenlle",
+    "mario",
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85187207902",
+   "title": "Experimental proof-of-concept of HelioSea: A novel marine floating photovoltaic device",
+   "source": "Ocean Engineering",
+   "year": 2024,
+   "date": "2024-05-01",
+   "volume": "299",
+   "issue": null,
+   "pages": "117184",
+   "doi": "10.1016/j.oceaneng.2024.117184",
+   "cited": 28,
+   "type": "Article",
+   "oa": false,
+   "authors": "Claus R.",
+   "members": [
+    "mario",
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85186436369",
+   "title": "Rotation of mode shapes in structural dynamics due to mass and stiffness perturbations",
+   "source": "Mechanical Systems and Signal Processing",
+   "year": 2024,
+   "date": "2024-04-15",
+   "volume": "212",
+   "issue": null,
+   "pages": "111269",
+   "doi": "10.1016/j.ymssp.2024.111269",
+   "cited": 9,
+   "type": "Article",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85184479151",
+   "title": "Advancing offshore solar energy generation: The HelioSea concept",
+   "source": "Applied Energy",
+   "year": 2024,
+   "date": "2024-04-01",
+   "volume": "359",
+   "issue": null,
+   "pages": "122710",
+   "doi": "10.1016/j.apenergy.2024.122710",
+   "cited": 53,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario",
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85178420236",
+   "title": "Automatic machine learning versus human knowledge-based models, property-based models and the fatigue problem",
+   "source": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+   "year": 2024,
+   "date": "2024-01-08",
+   "volume": "382",
+   "issue": "2264",
+   "pages": "20220380",
+   "doi": "10.1098/rsta.2022.0380",
+   "cited": 3,
+   "type": "Article",
+   "oa": false,
+   "authors": "Castillo E.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85200445180",
+   "title": "Vibration Testing and Finite Element Modelling of a Steel-Concrete Composite Bridge",
+   "source": "Lecture Notes in Civil Engineering",
+   "year": 2024,
+   "date": "2024-01-01",
+   "volume": "515 LNCE",
+   "issue": null,
+   "pages": "137-144",
+   "doi": "10.1007/978-3-031-61425-5_14",
+   "cited": 5,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "García-Fernández N.",
+   "members": [
+    "aenlle",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85176294478",
+   "title": "Sensitivity analysis of a system with two closely spaced modes using structural dynamic modification",
+   "source": "Mechanical Systems and Signal Processing",
+   "year": 2024,
+   "date": "2024-01-01",
+   "volume": "206",
+   "issue": null,
+   "pages": "110894",
+   "doi": "10.1016/j.ymssp.2023.110894",
+   "cited": 13,
+   "type": "Article",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85198726600",
+   "title": "On the Initial Assessment of a New Complex Frequency Domain Decomposition (C-FDD) Technique Formulated in Modal Model",
+   "source": "Lecture Notes in Civil Engineering",
+   "year": 2024,
+   "date": "2024-01-01",
+   "volume": "514 LNCE",
+   "issue": null,
+   "pages": "674-683",
+   "doi": "10.1007/978-3-031-61421-7_65",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Amador S.D.R.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85198734290",
+   "title": "Preface",
+   "source": "Lecture Notes in Civil Engineering",
+   "year": 2024,
+   "date": "2024-01-01",
+   "volume": "514 LNCE",
+   "issue": null,
+   "pages": "vi-viii",
+   "doi": null,
+   "cited": 0,
+   "type": "Editorial",
+   "oa": false,
+   "authors": "Rainieri C.",
+   "members": [
+    "aenlle"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85200469627",
+   "title": "Real Time Fatigue Monitoring Using OMA",
+   "source": "Lecture Notes in Civil Engineering",
+   "year": 2024,
+   "date": "2024-01-01",
+   "volume": "515 LNCE",
+   "issue": null,
+   "pages": "79-86",
+   "doi": "10.1007/978-3-031-61425-5_8",
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85198750715",
+   "title": "Local Sensitivity Analysis in Structural Dynamics Using Structural Dynamic Modification",
+   "source": "Lecture Notes in Civil Engineering",
+   "year": 2024,
+   "date": "2024-01-01",
+   "volume": "514 LNCE",
+   "issue": null,
+   "pages": "663-673",
+   "doi": "10.1007/978-3-031-61421-7_64",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pacheco-Chérrez J.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85185562102",
+   "title": "IKonPro®: A software for the probabilistic prediction of rolling contact fatigue",
+   "source": "Journal of Physics Conference Series",
+   "year": 2024,
+   "date": "2024-01-01",
+   "volume": "2692",
+   "issue": "1",
+   "pages": "012037",
+   "doi": "10.1088/1742-6596/2692/1/012037",
+   "cited": 5,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Escalero M.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85192152836",
+   "title": "Study of the Current Situation of Technical Drawing Teaching at Spanish Universities",
+   "source": "Lecture Notes in Mechanical Engineering",
+   "year": 2024,
+   "date": "2024-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "989-995",
+   "doi": "10.1007/978-3-031-51623-8_99",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Cerra P.P.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85200750136",
+   "title": "The current educational atmosphere regarding Graphic Engineering courses in university degrees",
+   "source": "International Conference on Higher Education Advances",
+   "year": 2024,
+   "date": "2024-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "139-144",
+   "doi": "10.4995/HEAd24.2024.17243",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Guerrero-Miguel D.J.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85165527786",
+   "title": "An engineering interpretation of the complex modal mass in structural dynamics",
+   "source": "Mechanical Systems and Signal Processing",
+   "year": 2023,
+   "date": "2023-10-01",
+   "volume": "200",
+   "issue": null,
+   "pages": "110621",
+   "doi": "10.1016/j.ymssp.2023.110621",
+   "cited": 3,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.A.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85165088279",
+   "title": "Effects of stress ratio on plasticity-induced crack closure through three-dimensional advanced numerical finite element models",
+   "source": "Theoretical and Applied Fracture Mechanics",
+   "year": 2023,
+   "date": "2023-10-01",
+   "volume": "127",
+   "issue": null,
+   "pages": "104000",
+   "doi": "10.1016/j.tafmec.2023.104000",
+   "cited": 16,
+   "type": "Article",
+   "oa": false,
+   "authors": "Calvín G.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85165267747",
+   "title": "A methodology to assess the dynamic response and the structural performance of floating photovoltaic systems",
+   "source": "Solar Energy",
+   "year": 2023,
+   "date": "2023-09-15",
+   "volume": "262",
+   "issue": null,
+   "pages": "111826",
+   "doi": "10.1016/j.solener.2023.111826",
+   "cited": 69,
+   "type": "Article",
+   "oa": false,
+   "authors": "Claus R.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85154609579",
+   "title": "Short-term analysis of extreme wave-induced forces on the connections of a floating breakwater",
+   "source": "Ocean Engineering",
+   "year": 2023,
+   "date": "2023-07-15",
+   "volume": "280",
+   "issue": null,
+   "pages": "114579",
+   "doi": "10.1016/j.oceaneng.2023.114579",
+   "cited": 9,
+   "type": "Article",
+   "oa": false,
+   "authors": "Cebada-Relea A.J.",
+   "members": [
+    "aenlle",
+    "mario",
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85148581619",
+   "title": "A review on fatigue monitoring of structures",
+   "source": "International Journal of Structural Integrity",
+   "year": 2023,
+   "date": "2023-03-21",
+   "volume": "14",
+   "issue": "2",
+   "pages": "133-165",
+   "doi": "10.1108/IJSI-09-2022-0117",
+   "cited": 15,
+   "type": "Article",
+   "oa": false,
+   "authors": "García-Fernández N.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "muniz",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85161893995",
+   "title": "Cross-Length of Mode Shapes in Structural Dynamics: Concept and Applications",
+   "source": "Shock and Vibration",
+   "year": 2023,
+   "date": "2023-01-01",
+   "volume": "2023",
+   "issue": null,
+   "pages": "2745671",
+   "doi": "10.1155/2023/2745671",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85175149966",
+   "title": "Using petg/rpet blends in fused particle fabrication: Analysis of feasibility and mechanical behaviour",
+   "source": "Advances in Science and Technology",
+   "year": 2023,
+   "date": "2023-01-01",
+   "volume": "132 AST",
+   "issue": null,
+   "pages": "147-154",
+   "doi": "10.4028/p-5M4UqT",
+   "cited": 4,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández P.",
+   "members": [
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85145563851",
+   "title": "Structural assessment of a pontoon-type floating photovoltaic plant for the marine environment",
+   "source": "Trends in Renewable Energies Offshore Proceedings of the 5th International Conference on Renewable Energies Offshore Renew 2022",
+   "year": 2023,
+   "date": "2023-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "709-716",
+   "doi": "10.1201/9781003360773-79",
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Claus R.",
+   "members": [
+    "mario",
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85143549206",
+   "title": "Crack shapes and crack driving force distributions for naturally growing fatigue cracks",
+   "source": "Engineering Fracture Mechanics",
+   "year": 2023,
+   "date": "2023-01-01",
+   "volume": "277",
+   "issue": null,
+   "pages": "108936",
+   "doi": "10.1016/j.engfracmech.2022.108936",
+   "cited": 9,
+   "type": "Article",
+   "oa": false,
+   "authors": "Escalero M.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85151135888",
+   "title": "DIBROOM: A Game Platform for Learning Drawing Engineering",
+   "source": "Lecture Notes in Mechanical Engineering",
+   "year": 2023,
+   "date": "2023-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "929-936",
+   "doi": "10.1007/978-3-031-20325-1_72",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Cerra P.P.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85151126367",
+   "title": "TrainCAD: An Innovative Teaching-Oriented System that Allows Automatic Correction of Exercises with AutoCAD",
+   "source": "Lecture Notes in Mechanical Engineering",
+   "year": 2023,
+   "date": "2023-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "921-928",
+   "doi": "10.1007/978-3-031-20325-1_71",
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Cerra P.P.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85146528781",
+   "title": "DIGITAL TWIN VALIDATION FOR SHOULDER JOINT BIOMECHANICAL SIMULATION",
+   "source": "Dyna Spain",
+   "year": 2022,
+   "date": "2022-11-01",
+   "volume": "97",
+   "issue": "6",
+   "pages": null,
+   "doi": "10.6036/10656",
+   "cited": 1,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández-Álvarez J.J.",
+   "members": [
+    "lamela"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85137784094",
+   "title": "Numerical-probabilistic assessment of tempered glass failure based on the generalised local model characterised by annealed plates",
+   "source": "Engineering Fracture Mechanics",
+   "year": 2022,
+   "date": "2022-10-15",
+   "volume": "274",
+   "issue": null,
+   "pages": "108754",
+   "doi": "10.1016/j.engfracmech.2022.108754",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "Iglesias A.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85132957775",
+   "title": "A comparative review of time- and frequency-domain methods for fatigue damage assessment",
+   "source": "International Journal of Fatigue",
+   "year": 2022,
+   "date": "2022-10-01",
+   "volume": "163",
+   "issue": null,
+   "pages": "107069",
+   "doi": "10.1016/j.ijfatigue.2022.107069",
+   "cited": 93,
+   "type": "Article",
+   "oa": false,
+   "authors": "Muñiz-Calvente M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "lamela",
+    "muniz",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85135118815",
+   "title": "A new effective stress intensity factor approach to determine thickness-independent fatigue crack growth rate curves",
+   "source": "Theoretical and Applied Fracture Mechanics",
+   "year": 2022,
+   "date": "2022-10-01",
+   "volume": "121",
+   "issue": null,
+   "pages": "103505",
+   "doi": "10.1016/j.tafmec.2022.103505",
+   "cited": 14,
+   "type": "Article",
+   "oa": false,
+   "authors": "Calvín G.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85130387338",
+   "title": "Key issues in the design of floating photovoltaic structures for the marine environment",
+   "source": "Renewable and Sustainable Energy Reviews",
+   "year": 2022,
+   "date": "2022-08-01",
+   "volume": "164",
+   "issue": null,
+   "pages": "112502",
+   "doi": "10.1016/j.rser.2022.112502",
+   "cited": 246,
+   "type": "Review",
+   "oa": false,
+   "authors": "Claus R.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85134911592",
+   "title": "Collaborative Learning Through Youtube",
+   "source": "Journal of Higher Education Theory and Practice",
+   "year": 2022,
+   "date": "2022-07-20",
+   "volume": "22",
+   "issue": "7",
+   "pages": "202-208",
+   "doi": "10.33423/jhetp.v22i7.5284",
+   "cited": 1,
+   "type": "Article",
+   "oa": false,
+   "authors": "Calvente M.M.",
+   "members": [
+    "pelayo",
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85129758833",
+   "title": "Distribution of the through-thickness effective stress intensity factor range and its influence on fatigue crack growth rate curves",
+   "source": "Theoretical and Applied Fracture Mechanics",
+   "year": 2022,
+   "date": "2022-06-01",
+   "volume": "119",
+   "issue": null,
+   "pages": "103374",
+   "doi": "10.1016/j.tafmec.2022.103374",
+   "cited": 20,
+   "type": "Article",
+   "oa": false,
+   "authors": "Calvín G.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85129242997",
+   "title": "Response of laminated glass elements subject to dynamic loadings using a monolithic model and a stress effective Young’s modulus",
+   "source": "Journal of Sandwich Structures and Materials",
+   "year": 2022,
+   "date": "2022-05-01",
+   "volume": "24",
+   "issue": "4",
+   "pages": "1771-1789",
+   "doi": "10.1177/10996362221084636",
+   "cited": 3,
+   "type": "Article",
+   "oa": false,
+   "authors": "Aenlle López M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "muniz",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85130300437",
+   "title": "Hybrid Systems for Marine Energy Harvesting",
+   "source": "Journal of Marine Science and Engineering",
+   "year": 2022,
+   "date": "2022-05-01",
+   "volume": "10",
+   "issue": "5",
+   "pages": "633",
+   "doi": "10.3390/jmse10050633",
+   "cited": 16,
+   "type": "Editorial",
+   "oa": false,
+   "authors": "Rosa-Santos P.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85104764398",
+   "title": "Fatigue life estimation of pre-corroded 42CrMo4 subjected to accelerated pitting corrosion method",
+   "source": "International Journal of Fracture",
+   "year": 2022,
+   "date": "2022-04-01",
+   "volume": "234",
+   "issue": "1-2",
+   "pages": "69-80",
+   "doi": "10.1007/s10704-021-00533-y",
+   "cited": 8,
+   "type": "Article",
+   "oa": false,
+   "authors": "Álvarez M.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85124210859",
+   "title": "Assessment of the potential of floating solar photovoltaic panels in bodies of water in mainland Spain",
+   "source": "Journal of Cleaner Production",
+   "year": 2022,
+   "date": "2022-03-15",
+   "volume": "340",
+   "issue": null,
+   "pages": "130752",
+   "doi": "10.1016/j.jclepro.2022.130752",
+   "cited": 119,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85117168394",
+   "title": "Effect of abutment finish lines on the mechanical behavior and marginal fit of screw-retained implant crowns: An in vitro study",
+   "source": "Journal of Prosthetic Dentistry",
+   "year": 2022,
+   "date": "2022-02-01",
+   "volume": "127",
+   "issue": "2",
+   "pages": "318-318.e10",
+   "doi": "10.1016/j.prosdent.2021.08.028",
+   "cited": 3,
+   "type": "Article",
+   "oa": false,
+   "authors": "García-González M.",
+   "members": [
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85124817394",
+   "title": "Assessing the Effectiveness of a Novel WEC Concept as a Co-Located Solution for Offshore Wind Farms",
+   "source": "Journal of Marine Science and Engineering",
+   "year": 2022,
+   "date": "2022-02-01",
+   "volume": "10",
+   "issue": "2",
+   "pages": "267",
+   "doi": "10.3390/jmse10020267",
+   "cited": 40,
+   "type": "Article",
+   "oa": false,
+   "authors": "Ramos V.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85163989116",
+   "title": "FINITE ELEMENT MODELLING AND OMA OF THE “LABORAL CITY OF CULTURE” TOWER",
+   "source": "9th Iomac International Operational Modal Analysis Conference Proceedings",
+   "year": 2022,
+   "date": "2022-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "231-242",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85121462096",
+   "title": "Time-domain numerical modelling of the connector forces in a modular pontoon floating breakwater under regular and irregular oblique waves",
+   "source": "Ocean Engineering",
+   "year": 2022,
+   "date": "2022-01-01",
+   "volume": "243",
+   "issue": null,
+   "pages": "110263",
+   "doi": "10.1016/j.oceaneng.2021.110263",
+   "cited": 29,
+   "type": "Article",
+   "oa": false,
+   "authors": "Cebada-Relea A.J.",
+   "members": [
+    "aenlle",
+    "mario",
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85163976734",
+   "title": "A PHYSICAL INTERPRETATION OF THE MODAL MASS IN STRUCTURAL DYNAMICS",
+   "source": "9th Iomac International Operational Modal Analysis Conference Proceedings",
+   "year": 2022,
+   "date": "2022-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "203-213",
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85164032192",
+   "title": "DYNAMIC RESPONSE OF LAMINATED GLASS ELEMENTS IN TIME DOMAIN",
+   "source": "9th Iomac International Operational Modal Analysis Conference Proceedings",
+   "year": 2022,
+   "date": "2022-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "11-19",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle-López M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "lamela",
+    "muniz",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85163992597",
+   "title": "EXAMPLES OF MODEL CORRELATION WITH CLOSELY SPACED MODES",
+   "source": "9th Iomac International Operational Modal Analysis Conference Proceedings",
+   "year": 2022,
+   "date": "2022-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "243-253",
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "García-Fernández N.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85164019222",
+   "title": "OPERATIONAL MODAL ANALYSIS AND NUMERICAL MODELLING OF A FOOTBRIDGE GALLERY LINKING TWO BUILDINGS",
+   "source": "9th Iomac International Operational Modal Analysis Conference Proceedings",
+   "year": 2022,
+   "date": "2022-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "41-49",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "García-Fernández N.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85164034144",
+   "title": "LENGTH OF MODE SHAPES IN NUMERICAL AND EXPERIMENTAL MODELS",
+   "source": "9th Iomac International Operational Modal Analysis Conference Proceedings",
+   "year": 2022,
+   "date": "2022-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "182-192",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "García-Fernández N.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "natalia",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85154559841",
+   "title": "Numerical Investigation of Floating Breakwaters Using Time Domain Boundary Element Method",
+   "source": "Proceedings of the IAHR World Congress",
+   "year": 2022,
+   "date": "2022-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "4383-4393",
+   "doi": "10.3850/IAHR-39WC2521716X2022379",
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Cebada-Relea A.J.",
+   "members": [
+    "mario",
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85182006956",
+   "title": "Design, Evaluation and Location of an Offshore Photovoltaic Plant to supply Energy to a Port",
+   "source": "Proceedings of the IAHR World Congress",
+   "year": 2022,
+   "date": "2022-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "2482-2491",
+   "doi": "10.3850/IAHR-39WC2521716X2022354",
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Claus R.",
+   "members": [
+    "mario",
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85115073903",
+   "title": "Experimental study and comparison of different fully transparent laminated glass beam designs",
+   "source": "Glass Structures and Engineering",
+   "year": 2021,
+   "date": "2021-12-01",
+   "volume": "6",
+   "issue": "4",
+   "pages": "463-486",
+   "doi": "10.1007/s40940-021-00160-y",
+   "cited": 10,
+   "type": "Article",
+   "oa": false,
+   "authors": "Centelles X.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85086152404",
+   "title": "Buckling of laminated glass plates using the effective thickness concept",
+   "source": "Journal of Sandwich Structures and Materials",
+   "year": 2021,
+   "date": "2021-10-01",
+   "volume": "23",
+   "issue": "7",
+   "pages": "3303-3335",
+   "doi": "10.1177/1099636220927003",
+   "cited": 3,
+   "type": "Article",
+   "oa": false,
+   "authors": "Aenlle-López M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "lamela",
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85117273592",
+   "title": "Power performance assessment of vertical-axis tidal turbines using an experimental test rig",
+   "source": "Energies",
+   "year": 2021,
+   "date": "2021-10-01",
+   "volume": "14",
+   "issue": "20",
+   "pages": "6686",
+   "doi": "10.3390/en14206686",
+   "cited": 9,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández-Jiménez A.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85111347408",
+   "title": "Viscoelastic behaviour of flexible thermoplastic polyurethane additively manufactured parts: Influence of inner-structure design factors",
+   "source": "Polymers",
+   "year": 2021,
+   "date": "2021-07-02",
+   "volume": "13",
+   "issue": "14",
+   "pages": "2365",
+   "doi": "10.3390/polym13142365",
+   "cited": 25,
+   "type": "Article",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85105285495",
+   "title": "Effect of region-dependent viscoelastic properties on the TMJ articular disc relaxation under prolonged clenching",
+   "source": "Journal of the Mechanical Behavior of Biomedical Materials",
+   "year": 2021,
+   "date": "2021-07-01",
+   "volume": "119",
+   "issue": null,
+   "pages": "104522",
+   "doi": "10.1016/j.jmbbm.2021.104522",
+   "cited": 9,
+   "type": "Article",
+   "oa": false,
+   "authors": "García N.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "natalia",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85108418436",
+   "title": "Fatigue assessment of selective laser melted ti-6al-4v: Influence of speed manufacturing and porosity",
+   "source": "Metals",
+   "year": 2021,
+   "date": "2021-07-01",
+   "volume": "11",
+   "issue": "7",
+   "pages": "1022",
+   "doi": "10.3390/met11071022",
+   "cited": 18,
+   "type": "Article",
+   "oa": false,
+   "authors": "Segurajauregi U.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85103087821",
+   "title": "Long-term loading and recovery of a laminated glass slab with three different interlayers",
+   "source": "Construction and Building Materials",
+   "year": 2021,
+   "date": "2021-06-14",
+   "volume": "287",
+   "issue": null,
+   "pages": "122991",
+   "doi": "10.1016/j.conbuildmat.2021.122991",
+   "cited": 23,
+   "type": "Article",
+   "oa": false,
+   "authors": "Centelles X.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85108201687",
+   "title": "Probabilistic assessment of fracture toughness of epoxy resin epolam 2025 including the notch radii effect",
+   "source": "Polymers",
+   "year": 2021,
+   "date": "2021-06-01",
+   "volume": "13",
+   "issue": "11",
+   "pages": "1857",
+   "doi": "10.3390/polym13111857",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "Álvarez-Vázquez A.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85102038672",
+   "title": "Geometry assessment of a sloped type wave energy converter",
+   "source": "Renewable Energy",
+   "year": 2021,
+   "date": "2021-06-01",
+   "volume": "171",
+   "issue": null,
+   "pages": "672-686",
+   "doi": "10.1016/j.renene.2021.02.132",
+   "cited": 18,
+   "type": "Article",
+   "oa": false,
+   "authors": "Giannini G.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85100377297",
+   "title": "Viscoelastic characterization of seven laminated glass interlayer materials from static tests",
+   "source": "Construction and Building Materials",
+   "year": 2021,
+   "date": "2021-04-12",
+   "volume": "279",
+   "issue": null,
+   "pages": "122503",
+   "doi": "10.1016/j.conbuildmat.2021.122503",
+   "cited": 46,
+   "type": "Article",
+   "oa": false,
+   "authors": "Centelles X.",
+   "members": [
+    "pelayo",
+    "lamela"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85099577463",
+   "title": "Flexural fatigue behaviour of a heated ultra-high-performance fibre-reinforced concrete",
+   "source": "Construction and Building Materials",
+   "year": 2021,
+   "date": "2021-03-22",
+   "volume": "276",
+   "issue": null,
+   "pages": "122209",
+   "doi": "10.1016/j.conbuildmat.2020.122209",
+   "cited": 30,
+   "type": "Article",
+   "oa": false,
+   "authors": "Ríos J.D.",
+   "members": [
+    "aenlle"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85097575229",
+   "title": "A geometry and temperature dependent regression model for statistical analysis of fracture toughness in notched specimens",
+   "source": "Engineering Fracture Mechanics",
+   "year": 2021,
+   "date": "2021-02-01",
+   "volume": "242",
+   "issue": null,
+   "pages": "107414",
+   "doi": "10.1016/j.engfracmech.2020.107414",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "Álvarez-Vázquez A.",
+   "members": [
+    "lamela",
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85112002051",
+   "title": "Erratum: Modal Mass and Length of Mode Shapes in Structural Dynamics (Shock and Vibration (2020) 2020: 16 (8648769) DOI: 10.1155/2020/8648769)",
+   "source": "Shock and Vibration",
+   "year": 2021,
+   "date": "2021-01-01",
+   "volume": "2021",
+   "issue": null,
+   "pages": "9821852",
+   "doi": "10.1155/2021/9821852",
+   "cited": 3,
+   "type": "Erratum",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85216240235",
+   "title": "Structural reliability of a novel offshore floating photovoltaic system to supply energy demands of ports",
+   "source": "Proceedings in Marine Technology and Ocean Engineering",
+   "year": 2021,
+   "date": "2021-01-01",
+   "volume": "2021",
+   "issue": null,
+   "pages": "505-512",
+   "doi": "10.1201/9781003230373-57",
+   "cited": 8,
+   "type": "Book Chapter",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario",
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85096570286",
+   "title": "A methodology for simulating plasticity induced crack closure and crack shape evolution based on elastic–plastic fracture parameters",
+   "source": "Engineering Fracture Mechanics",
+   "year": 2021,
+   "date": "2021-01-01",
+   "volume": "241",
+   "issue": null,
+   "pages": "107412",
+   "doi": "10.1016/j.engfracmech.2020.107412",
+   "cited": 26,
+   "type": "Article",
+   "oa": false,
+   "authors": "Escalero M.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85089537511",
+   "title": "Effects of loading direction in prolonged clenching on stress distribution in the temporomandibular joint",
+   "source": "Journal of the Mechanical Behavior of Biomedical Materials",
+   "year": 2020,
+   "date": "2020-12-01",
+   "volume": "112",
+   "issue": null,
+   "pages": "104029",
+   "doi": "10.1016/j.jmbbm.2020.104029",
+   "cited": 36,
+   "type": "Article",
+   "oa": false,
+   "authors": "Barrientos E.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85094827251",
+   "title": "Optimized planning and evaluation of dental implant fatigue testing: A specific software application",
+   "source": "Biology",
+   "year": 2020,
+   "date": "2020-11-01",
+   "volume": "9",
+   "issue": "11",
+   "pages": "1-12",
+   "doi": "10.3390/biology9110372",
+   "cited": 24,
+   "type": "Review",
+   "oa": false,
+   "authors": "García-González M.",
+   "members": [
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85094851698",
+   "title": "Special issue: Probabilistic mechanical fatigue and fracture of materials",
+   "source": "Materials",
+   "year": 2020,
+   "date": "2020-11-01",
+   "volume": "13",
+   "issue": "21",
+   "pages": "1-5",
+   "doi": "10.3390/ma13214901",
+   "cited": 2,
+   "type": "Editorial",
+   "oa": false,
+   "authors": "Muñiz-Calvente M.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85088897621",
+   "title": "Improving with probabilistic and scale features the Basquin linear and bi-linear fatigue models",
+   "source": "Engineering Failure Analysis",
+   "year": 2020,
+   "date": "2020-10-01",
+   "volume": "116",
+   "issue": null,
+   "pages": "104728",
+   "doi": "10.1016/j.engfailanal.2020.104728",
+   "cited": 38,
+   "type": "Article",
+   "oa": false,
+   "authors": "Usabiaga H.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85086300924",
+   "title": "A time- and temperature-dependent viscoelastic model based on the statistical compatibility condition",
+   "source": "Materials and Design",
+   "year": 2020,
+   "date": "2020-08-01",
+   "volume": "193",
+   "issue": null,
+   "pages": "108828",
+   "doi": "10.1016/j.matdes.2020.108828",
+   "cited": 12,
+   "type": "Article",
+   "oa": false,
+   "authors": "Álvarez-Vázquez A.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85089729018",
+   "title": "Combined floating offshore wind and solar PV",
+   "source": "Journal of Marine Science and Engineering",
+   "year": 2020,
+   "date": "2020-08-01",
+   "volume": "8",
+   "issue": "8",
+   "pages": "576",
+   "doi": "10.3390/JMSE8080576",
+   "cited": 182,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85077566996",
+   "title": "Considerations about the existence or non-existence of the fatigue limit: implications on practical design",
+   "source": "International Journal of Fracture",
+   "year": 2020,
+   "date": "2020-05-01",
+   "volume": "223",
+   "issue": "1-2",
+   "pages": "189-196",
+   "doi": "10.1007/s10704-019-00413-6",
+   "cited": 15,
+   "type": "Review",
+   "oa": false,
+   "authors": "Fernández-Canteli A.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85084586407",
+   "title": "A novel approach to describe the time-temperature conversion among relaxation curves of viscoelastic materials",
+   "source": "Materials",
+   "year": 2020,
+   "date": "2020-04-01",
+   "volume": "13",
+   "issue": "8",
+   "pages": "1809",
+   "doi": "10.3390/MA13081809",
+   "cited": 16,
+   "type": "Article",
+   "oa": false,
+   "authors": "Álvarez-Vázquez A.",
+   "members": [
+    "pelayo",
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85077172185",
+   "title": "Suitability of constraint and closure models for predicting crack growth in generic configurations",
+   "source": "Engineering Fracture Mechanics",
+   "year": 2020,
+   "date": "2020-02-15",
+   "volume": "225",
+   "issue": null,
+   "pages": "106808",
+   "doi": "10.1016/j.engfracmech.2019.106808",
+   "cited": 10,
+   "type": "Article",
+   "oa": false,
+   "authors": "Escalero M.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85092436127",
+   "title": "Robust Cross-Orthogonality Check Using the Principle of Local Correspondence",
+   "source": "Shock and Vibration",
+   "year": 2020,
+   "date": "2020-01-01",
+   "volume": "2020",
+   "issue": null,
+   "pages": "8271712",
+   "doi": "10.1155/2020/8271712",
+   "cited": 1,
+   "type": "Article",
+   "oa": false,
+   "authors": "Skafte A.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85087977607",
+   "title": "Modal Mass and Length of Mode Shapes in Structural Dynamics",
+   "source": "Shock and Vibration",
+   "year": 2020,
+   "date": "2020-01-01",
+   "volume": "2020",
+   "issue": null,
+   "pages": "8648769",
+   "doi": "10.1155/2020/8648769",
+   "cited": 42,
+   "type": "Article",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85078936578",
+   "title": "A probabilistic approach to assessing and predicting the failure of notched components",
+   "source": "Materials",
+   "year": 2019,
+   "date": "2019-12-01",
+   "volume": "12",
+   "issue": "24",
+   "pages": "4053",
+   "doi": "10.3390/ma12244053",
+   "cited": 5,
+   "type": "Article",
+   "oa": false,
+   "authors": "Muñiz-Calvente M.",
+   "members": [
+    "pelayo",
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85069812469",
+   "title": "Study of the influence of notch radii and temperature on the probability of failure: A methodology to perform a combined assessment",
+   "source": "Fatigue and Fracture of Engineering Materials and Structures",
+   "year": 2019,
+   "date": "2019-12-01",
+   "volume": "42",
+   "issue": "12",
+   "pages": "2663-2673",
+   "doi": "10.1111/ffe.13082",
+   "cited": 6,
+   "type": "Article",
+   "oa": false,
+   "authors": "Muñiz-Calvente M.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85069699998",
+   "title": "The renewed TC12/ESIS technical committee - Risk analysis and safety of large structures and components",
+   "source": "Engineering Failure Analysis",
+   "year": 2019,
+   "date": "2019-11-01",
+   "volume": "105",
+   "issue": null,
+   "pages": "798-802",
+   "doi": "10.1016/j.engfailanal.2019.07.027",
+   "cited": 8,
+   "type": "Editorial",
+   "oa": false,
+   "authors": "Correia J.A.F.O.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85073708418",
+   "title": "Fatigue assessment strategy using Bayesian techniques",
+   "source": "Materials",
+   "year": 2019,
+   "date": "2019-10-01",
+   "volume": "12",
+   "issue": "19",
+   "pages": "3239",
+   "doi": "10.3390/ma12193239",
+   "cited": 22,
+   "type": "Article",
+   "oa": false,
+   "authors": "Castillo E.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85068266999",
+   "title": "A hybrid SURF-DIC algorithm to estimate local displacements in structures using low-cost conventional cameras",
+   "source": "Engineering Failure Analysis",
+   "year": 2019,
+   "date": "2019-10-01",
+   "volume": "104",
+   "issue": null,
+   "pages": "807-815",
+   "doi": "10.1016/j.engfailanal.2019.06.083",
+   "cited": 20,
+   "type": "Article",
+   "oa": false,
+   "authors": "Cabo C.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85072790948",
+   "title": "Simplified calculation of laminated glass: Displacements determination in beams and plates under static loadings by using monolithic models",
+   "source": "Boletin De La Sociedad Espanola De Ceramica Y Vidrio",
+   "year": 2019,
+   "date": "2019-09-01",
+   "volume": "58",
+   "issue": "5",
+   "pages": "226-236",
+   "doi": "10.1016/j.bsecv.2019.03.003",
+   "cited": 3,
+   "type": "Article",
+   "oa": false,
+   "authors": "García García I.",
+   "members": [
+    "aenlle"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85068512473",
+   "title": "Viscoelastic properties of the central region of porcine temporomandibular joint disc in shear stress-relaxation",
+   "source": "Journal of Biomechanics",
+   "year": 2019,
+   "date": "2019-08-27",
+   "volume": "93",
+   "issue": null,
+   "pages": "126-131",
+   "doi": "10.1016/j.jbiomech.2019.06.023",
+   "cited": 6,
+   "type": "Article",
+   "oa": false,
+   "authors": "Barrientos E.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85062719256",
+   "title": "The CECO wave energy converter: Recent developments",
+   "source": "Renewable Energy",
+   "year": 2019,
+   "date": "2019-08-01",
+   "volume": "139",
+   "issue": null,
+   "pages": "368-384",
+   "doi": "10.1016/j.renene.2019.02.081",
+   "cited": 57,
+   "type": "Article",
+   "oa": false,
+   "authors": "Rosa-Santos P.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85063862773",
+   "title": "Mechanical characterization of polyvinil butyral from static and modal tests on laminated glass beams",
+   "source": "Composites Part B Engineering",
+   "year": 2019,
+   "date": "2019-07-15",
+   "volume": "169",
+   "issue": null,
+   "pages": "9-18",
+   "doi": "10.1016/j.compositesb.2019.03.077",
+   "cited": 39,
+   "type": "Article",
+   "oa": false,
+   "authors": "López-Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85063477488",
+   "title": "Probabilistic failure analysis for real glass components under general loading conditions",
+   "source": "Fatigue and Fracture of Engineering Materials and Structures",
+   "year": 2019,
+   "date": "2019-06-01",
+   "volume": "42",
+   "issue": "6",
+   "pages": "1283-1291",
+   "doi": "10.1111/ffe.13011",
+   "cited": 5,
+   "type": "Article",
+   "oa": false,
+   "authors": "Muniz-Calvente M.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85049607374",
+   "title": "Optimal discrete-time Prony series fitting method for viscoelastic materials",
+   "source": "Mechanics of Time Dependent Materials",
+   "year": 2019,
+   "date": "2019-05-28",
+   "volume": "23",
+   "issue": "2",
+   "pages": "193-206",
+   "doi": "10.1007/s11043-018-9394-z",
+   "cited": 35,
+   "type": "Article",
+   "oa": false,
+   "authors": "Barrientos E.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85066427124",
+   "title": "Pitch bearing lifetime prediction considering the effect of pitch control strategy",
+   "source": "Journal of Physics Conference Series",
+   "year": 2019,
+   "date": "2019-05-21",
+   "volume": "1222",
+   "issue": "1",
+   "pages": "012017",
+   "doi": "10.1088/1742-6596/1222/1/012017",
+   "cited": 14,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Lopez A.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85059126584",
+   "title": "Wave farm planning through high-resolution resource and performance characterization",
+   "source": "Renewable Energy",
+   "year": 2019,
+   "date": "2019-05-01",
+   "volume": "135",
+   "issue": null,
+   "pages": "1097-1107",
+   "doi": "10.1016/j.renene.2018.12.081",
+   "cited": 32,
+   "type": "Article",
+   "oa": false,
+   "authors": "Carballo R.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85059803093",
+   "title": "Static and dynamic effective thickness in five-layered glass plates",
+   "source": "Composite Structures",
+   "year": 2019,
+   "date": "2019-03-15",
+   "volume": "212",
+   "issue": null,
+   "pages": "259-270",
+   "doi": "10.1016/j.compstruct.2019.01.037",
+   "cited": 19,
+   "type": "Article",
+   "oa": false,
+   "authors": "López-Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85059148860",
+   "title": "A comparative analysis of multiaxial fatigue models under random loading",
+   "source": "Engineering Structures",
+   "year": 2019,
+   "date": "2019-03-01",
+   "volume": "182",
+   "issue": null,
+   "pages": "112-122",
+   "doi": "10.1016/j.engstruct.2018.12.035",
+   "cited": 17,
+   "type": "Article",
+   "oa": false,
+   "authors": "Portugal I.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85042521882",
+   "title": "Natural frequencies and damping ratios of multi-layered laminated glass beams using a dynamic effective thickness",
+   "source": "Journal of Sandwich Structures and Materials",
+   "year": 2019,
+   "date": "2019-02-01",
+   "volume": "21",
+   "issue": "2",
+   "pages": "439-463",
+   "doi": "10.1177/1099636217695479",
+   "cited": 13,
+   "type": "Article",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85069491823",
+   "title": "Dynamic stresses using OMA and a time domain effective Young's modulus for laminated beams with viscoelastic core",
+   "source": "8th Iomac International Operational Modal Analysis Conference Proceedings",
+   "year": 2019,
+   "date": "2019-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "619-626",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85069452662",
+   "title": "Modal mass in classical and operational modal analysis",
+   "source": "8th Iomac International Operational Modal Analysis Conference Proceedings",
+   "year": 2019,
+   "date": "2019-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "471-480",
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85072400631",
+   "title": "Modal participation estimated from the response correlation matrix",
+   "source": "Shock and Vibration",
+   "year": 2019,
+   "date": "2019-01-01",
+   "volume": "2019",
+   "issue": null,
+   "pages": "9347075",
+   "doi": "10.1155/2019/9347075",
+   "cited": 4,
+   "type": "Article",
+   "oa": false,
+   "authors": "Brincker R.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85069535983",
+   "title": "Basic concepts of modal scaling",
+   "source": "8th Iomac International Operational Modal Analysis Conference Proceedings",
+   "year": 2019,
+   "date": "2019-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "401-408",
+   "doi": null,
+   "cited": 4,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85069451487",
+   "title": "Applications of operational modal analysis to the acoustic of musical instruments: Snare drum and cello",
+   "source": "8th Iomac International Operational Modal Analysis Conference Proceedings",
+   "year": 2019,
+   "date": "2019-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "613-618",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández N.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85060177709",
+   "title": "One-Step FE Model Updating Using Local Correspondence and Mode Shape Orthogonality",
+   "source": "Shock and Vibration",
+   "year": 2019,
+   "date": "2019-01-01",
+   "volume": "2019",
+   "issue": null,
+   "pages": "1362954",
+   "doi": "10.1155/2019/1362954",
+   "cited": 7,
+   "type": "Article",
+   "oa": false,
+   "authors": "Jull M.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85084314698",
+   "title": "Failure analysis of Bi-material FFF parts",
+   "source": "Procedia Manufacturing",
+   "year": 2019,
+   "date": "2019-01-01",
+   "volume": "41",
+   "issue": null,
+   "pages": "571-578",
+   "doi": null,
+   "cited": 5,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández P.",
+   "members": [
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85053778095",
+   "title": "Study of alternatives and experimental validation for predictions of hole-edge fatigue crack growth in 42CrMo4 steel",
+   "source": "Engineering Structures",
+   "year": 2018,
+   "date": "2018-12-01",
+   "volume": "176",
+   "issue": null,
+   "pages": "621-631",
+   "doi": "10.1016/j.engstruct.2018.09.017",
+   "cited": 12,
+   "type": "Article",
+   "oa": false,
+   "authors": "Escalero M.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85065056113",
+   "title": "Detection of buried archaeological remains with the combined use of satellite multispectral data and UAV data",
+   "source": "International Journal of Applied Earth Observation and Geoinformation",
+   "year": 2018,
+   "date": "2018-12-01",
+   "volume": "73",
+   "issue": null,
+   "pages": "555-573",
+   "doi": "10.1016/j.jag.2018.07.023",
+   "cited": 68,
+   "type": "Article",
+   "oa": false,
+   "authors": "Calleja J.F.",
+   "members": [
+    "cebada"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85057069755",
+   "title": "Recent developments on experimental techniques, fracture mechanics and fatigue approaches",
+   "source": "Journal of Strain Analysis for Engineering Design",
+   "year": 2018,
+   "date": "2018-11-01",
+   "volume": "53",
+   "issue": "8",
+   "pages": "545",
+   "doi": "10.1177/0309324718814097",
+   "cited": 4,
+   "type": "Editorial",
+   "oa": false,
+   "authors": "Correia J.A.F.O.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85049045016",
+   "title": "The Generalised Local Model applied to Fibreglass",
+   "source": "Composite Structures",
+   "year": 2018,
+   "date": "2018-10-15",
+   "volume": "202",
+   "issue": null,
+   "pages": "1353-1360",
+   "doi": "10.1016/j.compstruct.2018.06.073",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "Vantadori S.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85049319356",
+   "title": "Effects of the PTO inclination on the performance of the CECO wave energy converter",
+   "source": "Marine Structures",
+   "year": 2018,
+   "date": "2018-09-01",
+   "volume": "61",
+   "issue": null,
+   "pages": "452-466",
+   "doi": "10.1016/j.marstruc.2018.06.016",
+   "cited": 27,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85046705260",
+   "title": "A review of ship mooring systems",
+   "source": "Brodogradnja",
+   "year": 2018,
+   "date": "2018-03-01",
+   "volume": "69",
+   "issue": "1",
+   "pages": "123-149",
+   "doi": "10.21278/brod69108",
+   "cited": 43,
+   "type": "Review",
+   "oa": false,
+   "authors": "Villa-Caro R.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85033394091",
+   "title": "Performance assessment of the CECO wave energy converter: Water depth influence",
+   "source": "Renewable Energy",
+   "year": 2018,
+   "date": "2018-03-01",
+   "volume": "117",
+   "issue": null,
+   "pages": "341-356",
+   "doi": "10.1016/j.renene.2017.10.064",
+   "cited": 31,
+   "type": "Article",
+   "oa": false,
+   "authors": "Ramos V.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85029157693",
+   "title": "Welded joints under multiaxial non-proportional loading",
+   "source": "Theoretical and Applied Fracture Mechanics",
+   "year": 2018,
+   "date": "2018-02-01",
+   "volume": "93",
+   "issue": null,
+   "pages": "202-210",
+   "doi": "10.1016/j.tafmec.2017.08.004",
+   "cited": 20,
+   "type": "Article",
+   "oa": false,
+   "authors": "Carpinteri A.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85058940650",
+   "title": "Dynamic Behavior of Supported Structures from Free-Free Modal Tests Using Structural Dynamic Modification",
+   "source": "Shock and Vibration",
+   "year": 2018,
+   "date": "2018-01-01",
+   "volume": "2018",
+   "issue": null,
+   "pages": "3130292",
+   "doi": "10.1155/2018/3130292",
+   "cited": 7,
+   "type": "Article",
+   "oa": false,
+   "authors": "Ismael G.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85061398911",
+   "title": "Optimization of wave energy converters in the OPWEC project",
+   "source": "Progress in Maritime Technology and Engineering Proceedings of the 4th International Conference on Maritime Technology and Engineering Martech 2018",
+   "year": 2018,
+   "date": "2018-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "657-666",
+   "doi": "10.1201/9780429505294-73",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Taveira-Pinto F.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85019947172",
+   "title": "Probabilistic assessment of fatigue data from shape homologous but different scale specimens. Application to an experimental program",
+   "source": "Engineering Fracture Mechanics",
+   "year": 2017,
+   "date": "2017-11-01",
+   "volume": "185",
+   "issue": null,
+   "pages": "193-209",
+   "doi": "10.1016/j.engfracmech.2017.05.017",
+   "cited": 19,
+   "type": "Article",
+   "oa": false,
+   "authors": "Blasón S.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85018176450",
+   "title": "A methodology for probabilistic prediction of fatigue crack initiation taking into account the scale effect",
+   "source": "Engineering Fracture Mechanics",
+   "year": 2017,
+   "date": "2017-11-01",
+   "volume": "185",
+   "issue": null,
+   "pages": "101-113",
+   "doi": "10.1016/j.engfracmech.2017.04.014",
+   "cited": 68,
+   "type": "Article",
+   "oa": false,
+   "authors": "Muniz-Calvente M.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85020908744",
+   "title": "A generalization of the fatigue Kohout-Věchet model for several fatigue damage parameters",
+   "source": "Engineering Fracture Mechanics",
+   "year": 2017,
+   "date": "2017-11-01",
+   "volume": "185",
+   "issue": null,
+   "pages": "284-300",
+   "doi": "10.1016/j.engfracmech.2017.06.009",
+   "cited": 88,
+   "type": "Article",
+   "oa": false,
+   "authors": "Correia J.A.F.O.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85020184878",
+   "title": "Probabilistic assessment of VHCF data as pertaining to concurrent populations using a Weibull regression model",
+   "source": "Fatigue and Fracture of Engineering Materials and Structures",
+   "year": 2017,
+   "date": "2017-11-01",
+   "volume": "40",
+   "issue": "11",
+   "pages": "1772-1782",
+   "doi": "10.1111/ffe.12641",
+   "cited": 15,
+   "type": "Article",
+   "oa": false,
+   "authors": "Muniz-Calvente M.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85020081884",
+   "title": "Methodology to evaluate fatigue damage under multiaxial random loading",
+   "source": "Engineering Fracture Mechanics",
+   "year": 2017,
+   "date": "2017-11-01",
+   "volume": "185",
+   "issue": null,
+   "pages": "114-123",
+   "doi": "10.1016/j.engfracmech.2017.04.012",
+   "cited": 16,
+   "type": "Article",
+   "oa": false,
+   "authors": "Portugal I.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85021442237",
+   "title": "Study of the time-temperature-dependent behaviour of PVB: Application to laminated glass elements",
+   "source": "Thin Walled Structures",
+   "year": 2017,
+   "date": "2017-10-01",
+   "volume": "119",
+   "issue": null,
+   "pages": "324-331",
+   "doi": "10.1016/j.tws.2017.06.030",
+   "cited": 83,
+   "type": "Article",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "lamela",
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85016554110",
+   "title": "A new scenario-based approach to damage detection using operational modal parameter estimates",
+   "source": "Mechanical Systems and Signal Processing",
+   "year": 2017,
+   "date": "2017-09-15",
+   "volume": "94",
+   "issue": null,
+   "pages": "359-373",
+   "doi": "10.1016/j.ymssp.2017.03.007",
+   "cited": 25,
+   "type": "Article",
+   "oa": false,
+   "authors": "Hansen J.B.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85019404714",
+   "title": "Fitting the fracture curve of concrete as a density function pertaining to the generalized extreme value family",
+   "source": "Materials and Design",
+   "year": 2017,
+   "date": "2017-09-05",
+   "volume": "129",
+   "issue": null,
+   "pages": "201-209",
+   "doi": "10.1016/j.matdes.2017.05.030",
+   "cited": 8,
+   "type": "Article",
+   "oa": false,
+   "authors": "Canteli A.F.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85016512967",
+   "title": "Generalized probabilistic model allowing for various fatigue damage variables",
+   "source": "International Journal of Fatigue",
+   "year": 2017,
+   "date": "2017-07-01",
+   "volume": "100",
+   "issue": null,
+   "pages": "187-194",
+   "doi": "10.1016/j.ijfatigue.2017.03.031",
+   "cited": 139,
+   "type": "Article",
+   "oa": false,
+   "authors": "Correia J.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85010910667",
+   "title": "Buckling of multilayered laminated glass beams: Validation of the effective thickness concept",
+   "source": "Composite Structures",
+   "year": 2017,
+   "date": "2017-06-01",
+   "volume": "169",
+   "issue": null,
+   "pages": "2-9",
+   "doi": "10.1016/j.compstruct.2017.01.040",
+   "cited": 16,
+   "type": "Article",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85010289930",
+   "title": "Abaqus2Matlab: A suitable tool for finite element post-processing",
+   "source": "Advances in Engineering Software",
+   "year": 2017,
+   "date": "2017-03-01",
+   "volume": "105",
+   "issue": null,
+   "pages": "9-16",
+   "doi": "10.1016/j.advengsoft.2017.01.006",
+   "cited": 171,
+   "type": "Article",
+   "oa": false,
+   "authors": "Papazafeiropoulos G.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85002989939",
+   "title": "Probabilistic failure assessment of Fibreglass composites",
+   "source": "Composite Structures",
+   "year": 2017,
+   "date": "2017-01-15",
+   "volume": "160",
+   "issue": null,
+   "pages": "1163-1170",
+   "doi": "10.1016/j.compstruct.2016.11.010",
+   "cited": 15,
+   "type": "Article",
+   "oa": false,
+   "authors": "Carpinteri A.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85026293538",
+   "title": "Damping ratios of monolithic glass using operational modal analysis",
+   "source": "Iomac 2017 7th International Operational Modal Analysis Conference",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "118-121",
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85026295750",
+   "title": "A methodology to validate simplysupported structures before the final assembly",
+   "source": "Iomac 2017 7th International Operational Modal Analysis Conference",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "267-270",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85026288167",
+   "title": "Damping of laminated glass beams with polyvinil butiral interlayer",
+   "source": "Iomac 2017 7th International Operational Modal Analysis Conference",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "333-336",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85026285711",
+   "title": "Calculation of dynamic stresses in viscoelastic sandwich beams using oma",
+   "source": "Iomac 2017 7th International Operational Modal Analysis Conference",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "309-312",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85029895020",
+   "title": "Calculation of displacements and stresses in laminated glass beams under dynamic loadings using an effective Young modulus",
+   "source": "Procedia Engineering",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": "199",
+   "issue": null,
+   "pages": "1405-1410",
+   "doi": "10.1016/j.proeng.2017.09.379",
+   "cited": 3,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85037108681",
+   "title": "Fatigue damage detection and prediction of fatigue life on a cantilever beam",
+   "source": "International Journal of Structural Integrity",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": "8",
+   "issue": "6",
+   "pages": "648-655",
+   "doi": "10.1108/IJSI-01-2017-0001",
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85019983031",
+   "title": "Numerical modelling of the CECO wave energy converter",
+   "source": "Renewable Energy",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": "113",
+   "issue": null,
+   "pages": "202-210",
+   "doi": "10.1016/j.renene.2017.05.066",
+   "cited": 47,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85021405147",
+   "title": "Influence of the wave climate seasonality on the performance of a wave energy converter: A case study",
+   "source": "Energy",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": "135",
+   "issue": null,
+   "pages": "303-316",
+   "doi": "10.1016/j.energy.2017.06.080",
+   "cited": 32,
+   "type": "Article",
+   "oa": false,
+   "authors": "Ramos V.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85007424258",
+   "title": "Influence of the power take-off characteristics on the performance of CECO wave energy converter",
+   "source": "Energy",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": "120",
+   "issue": null,
+   "pages": "686-697",
+   "doi": "10.1016/j.energy.2016.11.121",
+   "cited": 50,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85066054578",
+   "title": "Assessment of experimental fatigue lifetime results from specimens with homologous geometry but different size: Twofold scale effects in initiation and propagation",
+   "source": "Icf 2017 14th International Conference on Fracture",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": "2",
+   "issue": null,
+   "pages": "918-919",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Blasón S.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85007441096",
+   "title": "A probabilistic approach for multiaxial fatigue criteria",
+   "source": "Frattura Ed Integrita Strutturale",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": "11",
+   "issue": "39",
+   "pages": "160-165",
+   "doi": "10.3221/IGF-ESIS.39.16",
+   "cited": 16,
+   "type": "Article",
+   "oa": false,
+   "authors": "Calvente M.M.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85066012232",
+   "title": "A new way to derive the total fracture work of concrete tests",
+   "source": "Icf 2017 14th International Conference on Fracture",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": "2",
+   "issue": null,
+   "pages": "1127-1128",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Canteli A.F.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85037090082",
+   "title": "Guest editorial",
+   "source": "International Journal of Structural Integrity",
+   "year": 2017,
+   "date": "2017-01-01",
+   "volume": "8",
+   "issue": "6",
+   "pages": "614-616",
+   "doi": "10.1108/IJSI-10-2017-0055",
+   "cited": 3,
+   "type": "Editorial",
+   "oa": false,
+   "authors": "De Oliveira Correia J.A.F.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84990046303",
+   "title": "Hazard maps and global probability as a way to transfer standard fracture results to reliable design of real components",
+   "source": "Engineering Failure Analysis",
+   "year": 2016,
+   "date": "2016-11-01",
+   "volume": "69",
+   "issue": null,
+   "pages": "135-146",
+   "doi": "10.1016/j.engfailanal.2016.02.004",
+   "cited": 12,
+   "type": "Article",
+   "oa": false,
+   "authors": "Muñiz-Calvente M.",
+   "members": [
+    "lamela",
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84991203612",
+   "title": "Statistical joint evaluation of fracture results from distinct experimental programs: An application to annealed glass",
+   "source": "Theoretical and Applied Fracture Mechanics",
+   "year": 2016,
+   "date": "2016-10-01",
+   "volume": "85",
+   "issue": null,
+   "pages": "149-157",
+   "doi": "10.1016/j.tafmec.2016.08.009",
+   "cited": 8,
+   "type": "Article",
+   "oa": false,
+   "authors": "Muniz-Calvente M.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84991280911",
+   "title": "Modified CCS fatigue crack growth model for the AA2019-T851 based on plasticity-induced crack-closure",
+   "source": "Theoretical and Applied Fracture Mechanics",
+   "year": 2016,
+   "date": "2016-10-01",
+   "volume": "85",
+   "issue": null,
+   "pages": "26-36",
+   "doi": "10.1016/j.tafmec.2016.08.024",
+   "cited": 50,
+   "type": "Article",
+   "oa": false,
+   "authors": "Correia J.A.F.O.",
+   "members": [
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84950112798",
+   "title": "Dynamic and stress relaxation properties of the whole porcine temporomandibular joint disc under compression",
+   "source": "Journal of the Mechanical Behavior of Biomedical Materials",
+   "year": 2016,
+   "date": "2016-04-01",
+   "volume": "57",
+   "issue": null,
+   "pages": "109-115",
+   "doi": "10.1016/j.jmbbm.2015.12.003",
+   "cited": 15,
+   "type": "Article",
+   "oa": false,
+   "authors": "Barrientos E.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84947754588",
+   "title": "Buckling of laminated-glass beams using the effective-thickness concept",
+   "source": "Composite Structures",
+   "year": 2016,
+   "date": "2016-03-01",
+   "volume": "137",
+   "issue": null,
+   "pages": "44-55",
+   "doi": "10.1016/j.compstruct.2015.11.014",
+   "cited": 27,
+   "type": "Article",
+   "oa": false,
+   "authors": "López-Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84957007616",
+   "title": "A general procedure for estimating dynamic displacements using strain measurements and operational modal analysis",
+   "source": "Smart Materials and Structures",
+   "year": 2016,
+   "date": "2016-01-21",
+   "volume": "25",
+   "issue": "2",
+   "pages": "025020",
+   "doi": "10.1088/0964-1726/25/2/025020",
+   "cited": 27,
+   "type": "Article",
+   "oa": false,
+   "authors": "Skafte A.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84992533395",
+   "title": "Application of Modal Superposition Technique in the Fatigue Analysis Using Local Approaches",
+   "source": "Procedia Engineering",
+   "year": 2016,
+   "date": "2016-01-01",
+   "volume": "160",
+   "issue": null,
+   "pages": "45-52",
+   "doi": "10.1016/j.proeng.2016.08.861",
+   "cited": 11,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Horas C.S.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85018169827",
+   "title": "The influence of parameter estimation error on the accuracy of a vibration based tensile load estimation technique",
+   "source": "Proceedings of ISMA 2016 International Conference on Noise and Vibration Engineering and Usd2016 International Conference on Uncertainty in Structural Dynamics",
+   "year": 2016,
+   "date": "2016-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "1697-1710",
+   "doi": null,
+   "cited": 5,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Rainieri C.",
+   "members": [
+    "aenlle"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85065782839",
+   "title": "Probabilistic failure analysis for glass components under general loading conditions",
+   "source": "Procedia Structural Integrity",
+   "year": 2016,
+   "date": "2016-01-01",
+   "volume": "2",
+   "issue": null,
+   "pages": "2591-2597",
+   "doi": "10.1016/j.prostr.2016.06.324",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Ramos A.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85028669534",
+   "title": "Numerical modelling and power take off characterization of a wave energy converter with boundary element method",
+   "source": "Proceedings of the Coastal Engineering Conference",
+   "year": 2016,
+   "date": "2016-01-01",
+   "volume": "35",
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85065773498",
+   "title": "Joint evaluation of fracture and fatigue results from distinct specimen size and geometry",
+   "source": "Procedia Structural Integrity",
+   "year": 2016,
+   "date": "2016-01-01",
+   "volume": "1",
+   "issue": null,
+   "pages": "142-149",
+   "doi": "10.1016/j.prostr.2016.02.020",
+   "cited": 2,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Muniz-Calvente M.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85065764965",
+   "title": "Joint evaluation of fracture results from distinct test conditions, implying loading, specimen size and geometry",
+   "source": "Procedia Structural Integrity",
+   "year": 2016,
+   "date": "2016-01-01",
+   "volume": "2",
+   "issue": null,
+   "pages": "720-727",
+   "doi": "10.1016/j.prostr.2016.06.093",
+   "cited": 3,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Muniz-Calvente M.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84992609819",
+   "title": "Fatigue Life Response of P355NL1 Steel under Uniaxial Loading Using Kohout-Věchet Model",
+   "source": "Procedia Engineering",
+   "year": 2016,
+   "date": "2016-01-01",
+   "volume": "160",
+   "issue": null,
+   "pages": "109-116",
+   "doi": "10.1016/j.proeng.2016.08.869",
+   "cited": 4,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Correia J.A.F.O.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85006367191",
+   "title": "Probabilistic non-linear cumulative fatigue damage of the P355NL1 pressure vessel steel",
+   "source": "American Society of Mechanical Engineers Pressure Vessels and Piping Division Publication PVP",
+   "year": 2016,
+   "date": "2016-01-01",
+   "volume": "6A-2016",
+   "issue": null,
+   "pages": null,
+   "doi": "10.1115/PVP2016-63920",
+   "cited": 17,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "De Oliveira Correia J.A.F.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84940063774",
+   "title": "An effective thickness to estimate stresses in laminated glass beams under dynamic loadings",
+   "source": "Composites Part B Engineering",
+   "year": 2015,
+   "date": "2015-12-01",
+   "volume": "82",
+   "issue": null,
+   "pages": "1-12",
+   "doi": "10.1016/j.compositesb.2015.08.001",
+   "cited": 14,
+   "type": "Article",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84958680824",
+   "title": "Hindcasting Long Waves in a Port: An ANN Approach",
+   "source": "Coastal Engineering Journal",
+   "year": 2015,
+   "date": "2015-12-01",
+   "volume": "57",
+   "issue": "4",
+   "pages": "1550019",
+   "doi": "10.1142/S0578563415500199",
+   "cited": 10,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84943155422",
+   "title": "Artificial neural networks applied to port operability assessment",
+   "source": "Ocean Engineering",
+   "year": 2015,
+   "date": "2015-11-15",
+   "volume": "109",
+   "issue": null,
+   "pages": "298-308",
+   "doi": "10.1016/j.oceaneng.2015.09.016",
+   "cited": 41,
+   "type": "Article",
+   "oa": false,
+   "authors": "López I.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84944358000",
+   "title": "Modal Analysis Based Stress Estimation for Structural Elements Subjected to Operational Dynamic Loadings",
+   "source": "Experimental Mechanics",
+   "year": 2015,
+   "date": "2015-11-01",
+   "volume": "55",
+   "issue": "9",
+   "pages": "1791-1802",
+   "doi": "10.1007/s11340-015-0073-6",
+   "cited": 27,
+   "type": "Article",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84941994574",
+   "title": "Failure and repair analysis of a runway beam: Influence of the standard applied to lifetime prediction",
+   "source": "Engineering Failure Analysis",
+   "year": 2015,
+   "date": "2015-10-01",
+   "volume": "56",
+   "issue": null,
+   "pages": "89-97",
+   "doi": "10.1016/j.engfailanal.2015.04.008",
+   "cited": 9,
+   "type": "Article",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84940391867",
+   "title": "Elastic and plastic parts of strain energy density in critical distance determination",
+   "source": "Engineering Fracture Mechanics",
+   "year": 2015,
+   "date": "2015-10-01",
+   "volume": "147",
+   "issue": null,
+   "pages": "100-118",
+   "doi": "10.1016/j.engfracmech.2015.08.024",
+   "cited": 27,
+   "type": "Article",
+   "oa": false,
+   "authors": "Shlyannikov V.",
+   "members": [
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84928468445",
+   "title": "A proposed wave farm on the Galician coast",
+   "source": "Energy Conversion and Management",
+   "year": 2015,
+   "date": "2015-07-15",
+   "volume": "99",
+   "issue": null,
+   "pages": "102-111",
+   "doi": "10.1016/j.enconman.2015.04.033",
+   "cited": 82,
+   "type": "Article",
+   "oa": false,
+   "authors": "Veigas M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84941775086",
+   "title": "Probabilistic analysis of glass elements with three-parameter Weibull distribution",
+   "source": "Boletin De La Sociedad Espanola De Ceramica Y Vidrio",
+   "year": 2015,
+   "date": "2015-07-01",
+   "volume": "54",
+   "issue": "4",
+   "pages": "153-158",
+   "doi": "10.1016/j.bsecv.2015.06.002",
+   "cited": 5,
+   "type": "Article",
+   "oa": false,
+   "authors": "Ramos A.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "muniz"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84942052174",
+   "title": "Displacements determination in laminated glass plates under static loadings using the effective Young's modulus concept",
+   "source": "Boletin De La Sociedad Espanola De Ceramica Y Vidrio",
+   "year": 2015,
+   "date": "2015-03-01",
+   "volume": "54",
+   "issue": "2",
+   "pages": "69-76",
+   "doi": "10.1016/j.bsecv.2015.03.001",
+   "cited": 4,
+   "type": "Article",
+   "oa": false,
+   "authors": "García I.G.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84911897030",
+   "title": "On the wave energy resource of Peru",
+   "source": "Energy Conversion and Management",
+   "year": 2015,
+   "date": "2015-01-15",
+   "volume": "90",
+   "issue": null,
+   "pages": "34-40",
+   "doi": "10.1016/j.enconman.2014.11.012",
+   "cited": 78,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84922288188",
+   "title": "Mode shape sensitivity of two closely spaced eigenvalues",
+   "source": "Journal of Sound and Vibration",
+   "year": 2015,
+   "date": "2015-01-06",
+   "volume": "334",
+   "issue": null,
+   "pages": "377-387",
+   "doi": "10.1016/j.jsv.2014.08.015",
+   "cited": 58,
+   "type": "Article",
+   "oa": false,
+   "authors": "Brincker R.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84934784417",
+   "title": "Modal analysis of the tower of the Laboral City of Culture",
+   "source": "6th International Operational Modal Analysis Conference Iomac 2015",
+   "year": 2015,
+   "date": "2015-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Ismael G.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84934780188",
+   "title": "Analysis of structural glass panels under impact loading using operational modal analysis",
+   "source": "6th International Operational Modal Analysis Conference Iomac 2015",
+   "year": 2015,
+   "date": "2015-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 6,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Ramos A.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "lamela"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84934780291",
+   "title": "Comparison of different techniques to scale mode shapes in operational modal analysis",
+   "source": "6th International Operational Modal Analysis Conference Iomac 2015",
+   "year": 2015,
+   "date": "2015-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Mtnez L.B.P.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84934784047",
+   "title": "Welcome to IOMAC 2015",
+   "source": "6th International Operational Modal Analysis Conference Iomac 2015",
+   "year": 2015,
+   "date": "2015-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 0,
+   "type": "Editorial",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84945547789",
+   "title": "Cross orthogonality check for structures with closely spaced modes",
+   "source": "Conference Proceedings of the Society for Experimental Mechanics Series",
+   "year": 2015,
+   "date": "2015-01-01",
+   "volume": "3",
+   "issue": null,
+   "pages": "321-328",
+   "doi": "10.1007/978-3-319-15224-0_34",
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Skafte A.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84962808840",
+   "title": "Analysis of Factors Influencing the Mechanical Properties of Flat PolyJet Manufactured Parts",
+   "source": "Procedia Engineering",
+   "year": 2015,
+   "date": "2015-01-01",
+   "volume": "132",
+   "issue": null,
+   "pages": "70-77",
+   "doi": "10.1016/j.proeng.2015.12.481",
+   "cited": 66,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Gay P.",
+   "members": [
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84946013014",
+   "title": "Hazard Maps and Probabilistic Failure Assessment: Two Ways of Tackling Reliability",
+   "source": "Procedia Engineering",
+   "year": 2015,
+   "date": "2015-01-01",
+   "volume": "114",
+   "issue": null,
+   "pages": "738-745",
+   "doi": "10.1016/j.proeng.2015.08.019",
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Muniz-Calvente M.",
+   "members": [
+    "lamela",
+    "muniz",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84905220100",
+   "title": "Assessing the optimal location for a shoreline wave energy converter",
+   "source": "Applied Energy",
+   "year": 2014,
+   "date": "2014-11-01",
+   "volume": "132",
+   "issue": null,
+   "pages": "404-411",
+   "doi": "10.1016/j.apenergy.2014.07.067",
+   "cited": 101,
+   "type": "Article",
+   "oa": false,
+   "authors": "Veigas M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84911951565",
+   "title": "Nonisotropic experimental characterization of the relaxation modulus for PolyJet manufactured parts",
+   "source": "Journal of Materials Research",
+   "year": 2014,
+   "date": "2014-06-17",
+   "volume": "29",
+   "issue": "17",
+   "pages": "1876-1882",
+   "doi": "10.1557/jmr.2014.200",
+   "cited": 68,
+   "type": "Article",
+   "oa": false,
+   "authors": "Blanco D.",
+   "members": [
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84898849561",
+   "title": "Stress relaxation behaviors of articular cartilages in porcine temporomandibular joint",
+   "source": "Journal of Biomechanics",
+   "year": 2014,
+   "date": "2014-05-07",
+   "volume": "47",
+   "issue": "7",
+   "pages": "1582-1587",
+   "doi": "10.1016/j.jbiomech.2014.03.007",
+   "cited": 25,
+   "type": "Article",
+   "oa": false,
+   "authors": "Tanaka E.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84891836880",
+   "title": "A local correspondence principle for mode shapes in structural dynamics",
+   "source": "Mechanical Systems and Signal Processing",
+   "year": 2014,
+   "date": "2014-03-03",
+   "volume": "45",
+   "issue": "1",
+   "pages": "91-104",
+   "doi": "10.1016/j.ymssp.2013.10.025",
+   "cited": 75,
+   "type": "Article",
+   "oa": false,
+   "authors": "Brincker R.",
+   "members": [
+    "aenlle",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84913553501",
+   "title": "Mass normalization of a 3D tubular structure combining operational modal analysis and a numerical model",
+   "source": "Proceedings of ISMA 2014 International Conference on Noise and Vibration Engineering and Usd 2014 International Conference on Uncertainty in Structural Dynamics",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "3281-3292",
+   "doi": null,
+   "cited": 2,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84988690966",
+   "title": "Dynamic behavior of laminated glass beams",
+   "source": "Conference Proceedings of the Society for Experimental Mechanics Series",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": "4",
+   "issue": null,
+   "pages": "283-291",
+   "doi": "10.1007/978-3-319-04546-7_32",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84904440290",
+   "title": "Profatigue: A software program for probabilistic assessment of experimental fatigue data sets",
+   "source": "Procedia Engineering",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": "74",
+   "issue": null,
+   "pages": "236-241",
+   "doi": "10.1016/j.proeng.2014.06.255",
+   "cited": 65,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández-Canteli A.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84882956758",
+   "title": "Detection of Mass Change on a Glass Plate",
+   "source": "Conference Proceedings of the Society for Experimental Mechanics Series",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": "45",
+   "issue": "7",
+   "pages": "61-66",
+   "doi": "10.1007/978-1-4614-6585-0_5",
+   "cited": 2,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Hansen J.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84907330297",
+   "title": "Dynamic effective thickness in laminated-glass beams and plates",
+   "source": "Composites Part B Engineering",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": "67",
+   "issue": null,
+   "pages": "332-347",
+   "doi": "10.1016/j.compositesb.2014.07.018",
+   "cited": 35,
+   "type": "Article",
+   "oa": false,
+   "authors": "López-Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84988731341",
+   "title": "Modal scaling in OMA using the mass matrix of a finite element model",
+   "source": "Conference Proceedings of the Society for Experimental Mechanics Series",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": "4",
+   "issue": null,
+   "pages": "263-270",
+   "doi": "10.1007/978-3-319-04546-7_30",
+   "cited": 5,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84888601624",
+   "title": "Thermographic determination methodology: Application on fatigue limit of AL 2024 for R=-1",
+   "source": "Key Engineering Materials",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": "577-578",
+   "issue": null,
+   "pages": "477-480",
+   "doi": "10.4028/www.scientific.net/KEM.577-578.477",
+   "cited": 6,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Seitl S.",
+   "members": [
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84891879244",
+   "title": "Analysis of compressive properties of porcine temporomandibular joint disc",
+   "source": "Key Engineering Materials",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": "592-593",
+   "issue": null,
+   "pages": "354-357",
+   "doi": "10.4028/www.scientific.net/KEM.592-593.354",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Lamela M.J.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84898918069",
+   "title": "Evaluation of conventional Al 2024 fatigue limit in fatigue test using thermographic measurement: Effect of frequency",
+   "source": "Advanced Materials Research",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": "891-892",
+   "issue": null,
+   "pages": "1308-1313",
+   "doi": "10.4028/www.scientific.net/AMR.891-892.1308",
+   "cited": 3,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Seitl S.",
+   "members": [
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84915746939",
+   "title": "Accelerated flexural fatigue test rig to characterize high strength composite materials",
+   "source": "16th European Conference on Composite Materials Eccm 2014",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Cabello M.",
+   "members": [
+    "lamela"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84899701240",
+   "title": "Long wave effects on a vessel at berth",
+   "source": "Applied Ocean Research",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": "47",
+   "issue": null,
+   "pages": "63-72",
+   "doi": "10.1016/j.apor.2014.03.008",
+   "cited": 76,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84957702587",
+   "title": "Long waves and artificial neural networks",
+   "source": "Proceedings of the Coastal Engineering Conference",
+   "year": 2014,
+   "date": "2014-01-01",
+   "volume": "2014-January",
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84889586602",
+   "title": "Strain estimation in a glass beam using operational modal analysis",
+   "source": "Conference Proceedings of the Society for Experimental Mechanics Series",
+   "year": 2013,
+   "date": "2013-12-11",
+   "volume": "6",
+   "issue": null,
+   "pages": "375-382",
+   "doi": "10.1007/978-1-4614-6546-1_40",
+   "cited": 7,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84886084204",
+   "title": "Frequency response of laminated glass elements: Analytical modeling and effective thickness",
+   "source": "Applied Mechanics Reviews",
+   "year": 2013,
+   "date": "2013-10-28",
+   "volume": "65",
+   "issue": "2",
+   "pages": "020802",
+   "doi": "10.1115/1.4023929",
+   "cited": 33,
+   "type": "Article",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84885098291",
+   "title": "Modal scaling in operational modal analysis using a finite element model",
+   "source": "International Journal of Mechanical Sciences",
+   "year": 2013,
+   "date": "2013-10-14",
+   "volume": "76",
+   "issue": null,
+   "pages": "86-101",
+   "doi": "10.1016/j.ijmecsci.2013.09.003",
+   "cited": 60,
+   "type": "Article",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84885423481",
+   "title": "Relaxation modulus - Complex modulus interconversion for linear viscoelastic materials",
+   "source": "Mechanics of Time Dependent Materials",
+   "year": 2013,
+   "date": "2013-08-01",
+   "volume": "17",
+   "issue": "3",
+   "pages": "465-479",
+   "doi": "10.1007/s11043-012-9197-6",
+   "cited": 20,
+   "type": "Article",
+   "oa": false,
+   "authors": "García-Barruetabeña J.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84880568764",
+   "title": "Influence of the support conditions in the modal parameters of a cantilever beam",
+   "source": "Conference Proceedings of the Society for Experimental Mechanics Series",
+   "year": 2013,
+   "date": "2013-07-29",
+   "volume": "1",
+   "issue": null,
+   "pages": "335-341",
+   "doi": "10.1007/978-1-4614-6570-6_30",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Arenillas R.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84877316413",
+   "title": "Dynamic compressive properties of articular cartilages in the porcine temporomandibular joint",
+   "source": "Journal of the Mechanical Behavior of Biomedical Materials",
+   "year": 2013,
+   "date": "2013-07-01",
+   "volume": "23",
+   "issue": null,
+   "pages": "62-70",
+   "doi": "10.1016/j.jmbbm.2013.04.006",
+   "cited": 20,
+   "type": "Article",
+   "oa": false,
+   "authors": "Lamela M.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84877323266",
+   "title": "The region-dependent dynamic properties of porcine temporomandibular joint disc under unconfined compression",
+   "source": "Journal of Biomechanics",
+   "year": 2013,
+   "date": "2013-02-22",
+   "volume": "46",
+   "issue": "4",
+   "pages": "845-848",
+   "doi": "10.1016/j.jbiomech.2012.11.035",
+   "cited": 18,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández P.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84906242210",
+   "title": "Modal scaling of a laminated glass plate",
+   "source": "5th International Operational Modal Analysis Conference Iomac 2013",
+   "year": 2013,
+   "date": "2013-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "1-10",
+   "doi": null,
+   "cited": 2,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández P.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84906232834",
+   "title": "Stress estimation in a scale model of a symetric two story building",
+   "source": "5th International Operational Modal Analysis Conference Iomac 2013",
+   "year": 2013,
+   "date": "2013-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "1-9",
+   "doi": null,
+   "cited": 13,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84906221640",
+   "title": "Modal scaling of beam structures by operational and classical modal analysis",
+   "source": "5th International Operational Modal Analysis Conference Iomac 2013",
+   "year": 2013,
+   "date": "2013-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "1-10",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Bergua P.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84896976079",
+   "title": "The effective-thickness concept in laminated-glass elements under static loading",
+   "source": "Engineering Structures",
+   "year": 2013,
+   "date": "2013-01-01",
+   "volume": "56",
+   "issue": null,
+   "pages": "1092-1102",
+   "doi": "10.1016/j.engstruct.2013.06.018",
+   "cited": 25,
+   "type": "Article",
+   "oa": false,
+   "authors": "López-Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84906250443",
+   "title": "Mass detection in operational modal analysis",
+   "source": "5th International Operational Modal Analysis Conference Iomac 2013",
+   "year": 2013,
+   "date": "2013-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "1-7",
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Hansen J.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84878787355",
+   "title": "Evaluation of damping properties of structural glass panes under impact loading",
+   "source": "COST Action Tu0905 Mid Term Conference on Structural Glass Proceedings of COST Action Tu0905 Mid Term Conference on Structural Glass",
+   "year": 2013,
+   "date": "2013-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "113-120",
+   "doi": "10.1201/b14563-18",
+   "cited": 11,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Ramos A.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84870748522",
+   "title": "Contrast of a probabilistic design model for laminated glass plates",
+   "source": "Materials Science Forum",
+   "year": 2013,
+   "date": "2013-01-01",
+   "volume": "730-732",
+   "issue": null,
+   "pages": "501-506",
+   "doi": "10.4028/www.scientific.net/MSF.730-732.501",
+   "cited": 7,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Lamela M.J.",
+   "members": [
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84878779260",
+   "title": "Improving with FEM the glass fracture stress obtained from coaxial double ring test",
+   "source": "COST Action Tu0905 Mid Term Conference on Structural Glass Proceedings of COST Action Tu0905 Mid Term Conference on Structural Glass",
+   "year": 2013,
+   "date": "2013-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "189-196",
+   "doi": "10.1201/b14563-28",
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Huerta M.C.",
+   "members": [
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84867431319",
+   "title": "Artificial Intelligence for estimating infragravity energy in a harbour",
+   "source": "Ocean Engineering",
+   "year": 2013,
+   "date": "2013-01-01",
+   "volume": "57",
+   "issue": null,
+   "pages": "56-63",
+   "doi": "10.1016/j.oceaneng.2012.08.009",
+   "cited": 46,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84865818634",
+   "title": "Long period oscillations and tidal level in the Port of Ferrol",
+   "source": "Applied Ocean Research",
+   "year": 2012,
+   "date": "2012-10-01",
+   "volume": "38",
+   "issue": null,
+   "pages": "126-134",
+   "doi": "10.1016/j.apor.2012.07.006",
+   "cited": 56,
+   "type": "Article",
+   "oa": false,
+   "authors": "López M.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84857060649",
+   "title": "Checking the fatigue limit from thermographic techniques by means of a probabilistic model of the epsilon-N field",
+   "source": "International Journal of Fatigue",
+   "year": 2012,
+   "date": "2012-06-01",
+   "volume": "39",
+   "issue": null,
+   "pages": "109-115",
+   "doi": "10.1016/j.ijfatigue.2011.02.008",
+   "cited": 24,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández-Canteli A.",
+   "members": [
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-80055083614",
+   "title": "On exact and approximated formulations for scaling-mode shapes in operational modal analysis by mass and stiffness change",
+   "source": "Journal of Sound and Vibration",
+   "year": 2012,
+   "date": "2012-01-30",
+   "volume": "331",
+   "issue": "3",
+   "pages": "622-637",
+   "doi": "10.1016/j.jsv.2011.09.017",
+   "cited": 66,
+   "type": "Article",
+   "oa": false,
+   "authors": "López-Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85127294037",
+   "title": "Comparison of viscoelastic moduli fitting using optimization methods",
+   "source": "19th European Conference on Fracture Fracture Mechanics for Durability Reliability and Safety Ecf 2012",
+   "year": 2012,
+   "date": "2012-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-85087190459",
+   "title": "Turbine-chamber coupling in an OWC wave energy converter",
+   "source": "Proceedings of the Coastal Engineering Conference",
+   "year": 2012,
+   "date": "2012-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": "10.9753/icce.v33.structures.2",
+   "cited": 9,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Lopez I.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-80052473267",
+   "title": "Non-linear Viscoelastic Model for Behaviour Characterization of Temporomandibular Joint Discs",
+   "source": "Experimental Mechanics",
+   "year": 2011,
+   "date": "2011-10-01",
+   "volume": "51",
+   "issue": "8",
+   "pages": "1435-1440",
+   "doi": "10.1007/s11340-011-9465-4",
+   "cited": 25,
+   "type": "Article",
+   "oa": false,
+   "authors": "Lamela M.J.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-79957900353",
+   "title": "Scaling Mode Shapes in Output-Only Systems by a Consecutive Mass Change Method",
+   "source": "Experimental Mechanics",
+   "year": 2011,
+   "date": "2011-07-01",
+   "volume": "51",
+   "issue": "6",
+   "pages": "995-1005",
+   "doi": "10.1007/s11340-010-9400-0",
+   "cited": 19,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández P.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-79958844973",
+   "title": "Estimating the S-N field from strain-lifetime curves",
+   "source": "Strain",
+   "year": 2011,
+   "date": "2011-06-01",
+   "volume": "47",
+   "issue": "SUPPL. 1",
+   "pages": "e93-e97",
+   "doi": "10.1111/j.1475-1305.2008.00548.x",
+   "cited": 8,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández-Canteli A.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-79952183727",
+   "title": "Experimental characterization and modelization of the relaxation and complex moduli of a flexible adhesive",
+   "source": "Materials and Design",
+   "year": 2011,
+   "date": "2011-05-01",
+   "volume": "32",
+   "issue": "5",
+   "pages": "2783-2796",
+   "doi": "10.1016/j.matdes.2011.01.005",
+   "cited": 28,
+   "type": "Article",
+   "oa": false,
+   "authors": "García-Barruetabeña J.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-79959573014",
+   "title": "Study of the interconversion between viscoelastic behaviour functions of PMMA",
+   "source": "Mechanics of Time Dependent Materials",
+   "year": 2011,
+   "date": "2011-05-01",
+   "volume": "15",
+   "issue": "2",
+   "pages": "169-180",
+   "doi": "10.1007/s11043-010-9128-3",
+   "cited": 28,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández P.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-79952595834",
+   "title": "Viscoelastic characterisation of the temporomandibular joint disc in bovines",
+   "source": "Strain",
+   "year": 2011,
+   "date": "2011-04-01",
+   "volume": "47",
+   "issue": "2",
+   "pages": "188-193",
+   "doi": "10.1111/j.1475-1305.2008.00502.x",
+   "cited": 13,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández P.",
+   "members": [
+    "pelayo",
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84922597362",
+   "title": "Operational modal analysis on laminated glass beams",
+   "source": "4th International Operational Modal Analysis Conference Iomac 2011",
+   "year": 2011,
+   "date": "2011-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "1-8",
+   "doi": null,
+   "cited": 4,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84922667379",
+   "title": "A methodology for checking the validity of mass changes: The Correlation Frequency Method",
+   "source": "4th International Operational Modal Analysis Conference Iomac 2011",
+   "year": 2011,
+   "date": "2011-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "553-560",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84922667066",
+   "title": "Operational modal analysis of two wind turbines with foundation problems",
+   "source": "4th International Operational Modal Analysis Conference Iomac 2011",
+   "year": 2011,
+   "date": "2011-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "537-544",
+   "doi": null,
+   "cited": 8,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84922601402",
+   "title": "Modal masses estimation in OMA by a consecutive mass change method",
+   "source": "4th International Operational Modal Analysis Conference Iomac 2011",
+   "year": 2011,
+   "date": "2011-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "545-552",
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pelayo F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-79960335342",
+   "title": "Experimental evaluation of mass change approaches for scaling factors estimation",
+   "source": "Conference Proceedings of the Society for Experimental Mechanics Series",
+   "year": 2011,
+   "date": "2011-01-01",
+   "volume": "4",
+   "issue": null,
+   "pages": "109-118",
+   "doi": "10.1007/978-1-4419-9831-6_13",
+   "cited": 4,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández P.",
+   "members": [
+    "aenlle",
+    "pelayo"
+   ]
+  },
+  {
+   "eid": "2-s2.0-78650625857",
+   "title": "Modelling and experimental contrast of the mechanical behaviour of structural laminated glass",
+   "source": "Materiales De Construccion",
+   "year": 2010,
+   "date": "2010-12-31",
+   "volume": "60",
+   "issue": "300",
+   "pages": "131-141",
+   "doi": "10.3989/mc.2010.51909",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "Sanz-Ablanedo E.",
+   "members": [
+    "lamela"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84866237368",
+   "title": "Erratum: Scaling-factor estimation using an optimized mass-change strategy (Mechanical Systems and Signal Processing (2010) 24:5 (1260-1273))",
+   "source": "Mechanical Systems and Signal Processing",
+   "year": 2010,
+   "date": "2010-11-01",
+   "volume": "24",
+   "issue": "8",
+   "pages": "3060",
+   "doi": "10.1016/j.ymssp.2010.06.008",
+   "cited": 9,
+   "type": "Erratum",
+   "oa": false,
+   "authors": "López-Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-77954101102",
+   "title": "Using statistical compatibility to derive advanced probabilistic fatigue models",
+   "source": "Procedia Engineering",
+   "year": 2010,
+   "date": "2010-04-01",
+   "volume": "2",
+   "issue": "1",
+   "pages": "1131-1140",
+   "doi": "10.1016/j.proeng.2010.03.122",
+   "cited": 6,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández-Canteli A.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-77953229399",
+   "title": "Scaling-factor estimation using an optimized mass-change strategy",
+   "source": "Mechanical Systems and Signal Processing",
+   "year": 2010,
+   "date": "2010-01-01",
+   "volume": "24",
+   "issue": "5",
+   "pages": "1260-1273",
+   "doi": "10.1016/j.ymssp.2009.06.011",
+   "cited": 60,
+   "type": "Article",
+   "oa": false,
+   "authors": "López-Aenlle M.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-67149107423",
+   "title": "Wave energy potential in Galicia (NW Spain)",
+   "source": "Renewable Energy",
+   "year": 2009,
+   "date": "2009-11-01",
+   "volume": "34",
+   "issue": "11",
+   "pages": "2323-2333",
+   "doi": "10.1016/j.renene.2009.03.030",
+   "cited": 231,
+   "type": "Article",
+   "oa": false,
+   "authors": "Iglesias G.",
+   "members": [
+    "mario"
+   ]
+  },
+  {
+   "eid": "2-s2.0-67650509305",
+   "title": "ICT training approach for the structural steel design under the eurocodes",
+   "source": "Webist 2009 Proceedings of the 5th International Conference on Web Information Systems and Technologies",
+   "year": 2009,
+   "date": "2009-07-21",
+   "volume": null,
+   "issue": null,
+   "pages": "282-287",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Serrano M.A.",
+   "members": [
+    "aenlle"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84906255774",
+   "title": "Stress estimation in structures using operational modal analysis",
+   "source": "Iomac 2009 3rd International Operational Modal Analysis Conference",
+   "year": 2009,
+   "date": "2009-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "675-682",
+   "doi": null,
+   "cited": 6,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández P.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-79957884842",
+   "title": "Artificial excitation in operational modal analysis",
+   "source": "Iomac 2009 3rd International Operational Modal Analysis Conference",
+   "year": 2009,
+   "date": "2009-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "643-650",
+   "doi": null,
+   "cited": 8,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández P.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84866127076",
+   "title": "A regression model for statistical assessment of fatigue strain- and stress lifetimes",
+   "source": "17th European Conference on Fracture 2008 Multilevel Approach to Fracture of Materials Components and Structures",
+   "year": 2008,
+   "date": "2008-12-01",
+   "volume": "3",
+   "issue": null,
+   "pages": "1840-1846",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández-Canteli A.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-46449102277",
+   "title": "A general regression model for statistical analysis of strain-life fatigue data",
+   "source": "Materials Letters",
+   "year": 2008,
+   "date": "2008-08-15",
+   "volume": "62",
+   "issue": "21-22",
+   "pages": "3639-3642",
+   "doi": "10.1016/j.matlet.2008.04.015",
+   "cited": 46,
+   "type": "Article",
+   "oa": false,
+   "authors": "Castillo E.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-35548967616",
+   "title": "A critical comparison of two models for assessment of fatigue data",
+   "source": "International Journal of Fatigue",
+   "year": 2008,
+   "date": "2008-01-01",
+   "volume": "30",
+   "issue": "1",
+   "pages": "45-57",
+   "doi": "10.1016/j.ijfatigue.2007.02.014",
+   "cited": 36,
+   "type": "Article",
+   "oa": false,
+   "authors": "Castillo E.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-35348813732",
+   "title": "Some fatigue damage measures for longitudinal elements based on the Wöhler field",
+   "source": "Fatigue and Fracture of Engineering Materials and Structures",
+   "year": 2007,
+   "date": "2007-11-01",
+   "volume": "30",
+   "issue": "11",
+   "pages": "1063-1075",
+   "doi": "10.1111/j.1460-2695.2007.01176.x",
+   "cited": 10,
+   "type": "Article",
+   "oa": false,
+   "authors": "Castillo E.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-33947496054",
+   "title": "A fatigue model with local sensitivity analysis",
+   "source": "Fatigue and Fracture of Engineering Materials and Structures",
+   "year": 2007,
+   "date": "2007-02-01",
+   "volume": "30",
+   "issue": "2",
+   "pages": "149-168",
+   "doi": "10.1111/j.1460-2695.2006.01099.x",
+   "cited": 41,
+   "type": "Article",
+   "oa": false,
+   "authors": "Castillo E.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-34548812555",
+   "title": "Fatigue behaviour of hot rolled reinforcing bars of austenitic and duplex stainless steels",
+   "source": "Materials Science and Technology",
+   "year": 2007,
+   "date": "2007-02-01",
+   "volume": "23",
+   "issue": "2",
+   "pages": "145-150",
+   "doi": "10.1179/174328407X154338",
+   "cited": 8,
+   "type": "Article",
+   "oa": false,
+   "authors": "Rodríguez C.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84906076873",
+   "title": "Scaling factor estimation using an optimized mass change strategy. Part 2: Experimental results",
+   "source": "Proceedings of the 2nd International Operational Modal Analysis Conference Iomac 2007",
+   "year": 2007,
+   "date": "2007-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 14,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Fernández P.F.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84906098411",
+   "title": "Load estimation by frequency domain decomposition",
+   "source": "Proceedings of the 2nd International Operational Modal Analysis Conference Iomac 2007",
+   "year": 2007,
+   "date": "2007-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 6,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Pedersen I.",
+   "members": [
+    "aenlle",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84906087911",
+   "title": "Load estimation from modal parameters",
+   "source": "Proceedings of the 2nd International Operational Modal Analysis Conference Iomac 2007",
+   "year": 2007,
+   "date": "2007-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 7,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84906079150",
+   "title": "Scaling factor estimation using an optimized mass change strategy. Part 1: Theory",
+   "source": "Proceedings of the 2nd International Operational Modal Analysis Conference Iomac 2007",
+   "year": 2007,
+   "date": "2007-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 22,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.L.",
+   "members": [
+    "aenlle",
+    "pelayo",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-34248359130",
+   "title": "Design of glass elements in building: A proposal for the Spanish code",
+   "source": "Boletin De La Sociedad Espanola De Ceramica Y Vidrio",
+   "year": 2007,
+   "date": "2007-01-01",
+   "volume": "46",
+   "issue": "2",
+   "pages": "71-75",
+   "doi": "10.3989/cyv.2007.v46.i2.252",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "Fernández Canteli A.",
+   "members": [
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-33646907418",
+   "title": "Specimen length effect on parameter estimation in modelling fatigue strength by Weibull distribution",
+   "source": "International Journal of Fatigue",
+   "year": 2006,
+   "date": "2006-09-01",
+   "volume": "28",
+   "issue": "9",
+   "pages": "1047-1058",
+   "doi": "10.1016/j.ijfatigue.2005.11.006",
+   "cited": 78,
+   "type": "Article",
+   "oa": false,
+   "authors": "Castillo E.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84908294545",
+   "title": "Comparative analysis of two models for evaluating fatigue data",
+   "source": "Fracture of Nano and Engineering Materials and Structures Proceedings of the 16th European Conference of Fracture",
+   "year": 2006,
+   "date": "2006-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": "183-184",
+   "doi": "10.1007/1-4020-4972-2_89",
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Castillo E.",
+   "members": [
+    "aenlle",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84861548253",
+   "title": "Some methods to determine scaled mode shapes in natural input modal analysis",
+   "source": "Conference Proceedings of the Society for Experimental Mechanics Series",
+   "year": 2005,
+   "date": "2005-12-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 20,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84861567146",
+   "title": "Load estimation from Natural Input Modal Analysis",
+   "source": "Conference Proceedings of the Society for Experimental Mechanics Series",
+   "year": 2005,
+   "date": "2005-12-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-84906055533",
+   "title": "Scaling factor estimation by the mass change method",
+   "source": "Proceedings of the 1st International Operational Modal Analysis Conference Iomac 2005",
+   "year": 2005,
+   "date": "2005-01-01",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "doi": null,
+   "cited": 22,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Aenlle M.",
+   "members": [
+    "aenlle",
+    "canteli",
+    "brincker"
+   ]
+  },
+  {
+   "eid": "2-s2.0-8644263321",
+   "title": "A design model for glass elements based on the statistical distribution of crack sizes",
+   "source": "Key Engineering Materials",
+   "year": 2004,
+   "date": "2004-01-01",
+   "volume": "264-268",
+   "issue": "III",
+   "pages": "1855-1858",
+   "doi": null,
+   "cited": 0,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "García-Prieto M.A.",
+   "members": [
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-8644287572",
+   "title": "Strength characterization of glass by means of the statistical theory of confounded data",
+   "source": "Key Engineering Materials",
+   "year": 2004,
+   "date": "2004-01-01",
+   "volume": "264-268",
+   "issue": "III",
+   "pages": "1923-1926",
+   "doi": null,
+   "cited": 1,
+   "type": "Conference Paper",
+   "oa": false,
+   "authors": "Castillo E.",
+   "members": [
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-0034985928",
+   "title": "Fatigue characterization of composite materials laminates under different modes of loading",
+   "source": "Informacion Tecnologica",
+   "year": 2001,
+   "date": "2001-01-01",
+   "volume": "12",
+   "issue": "3",
+   "pages": "121-128",
+   "doi": null,
+   "cited": 0,
+   "type": "Article",
+   "oa": false,
+   "authors": "López-Aenlle M.",
+   "members": [
+    "aenlle",
+    "lamela"
+   ]
+  },
+  {
+   "eid": "2-s2.0-0031386036",
+   "title": "Comparative statistical analysis of the fatigue of composites under different modes of loading",
+   "source": "Journal of Materials Science",
+   "year": 1997,
+   "date": "1997-01-01",
+   "volume": "32",
+   "issue": "24",
+   "pages": "6495-6503",
+   "doi": "10.1023/A:1018603009198",
+   "cited": 5,
+   "type": "Review",
+   "oa": false,
+   "authors": "Lamela M.J.",
+   "members": [
+    "lamela",
+    "canteli"
+   ]
+  },
+  {
+   "eid": "2-s2.0-0028720623",
+   "title": "Ageing of glass fibre reinforced PEI in saline atmosphere",
+   "source": "Journal of Materials Science Letters",
+   "year": 1994,
+   "date": "1994-12-01",
+   "volume": "13",
+   "issue": "24",
+   "pages": "1778-1779",
+   "doi": "10.1007/BF00776356",
+   "cited": 2,
+   "type": "Article",
+   "oa": false,
+   "authors": "Viña J.",
+   "members": [
+    "lamela"
+   ]
+  }
+ ]
+}
